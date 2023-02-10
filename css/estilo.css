@@ -11,6 +11,11 @@ bg_black{
     border-bottom-width: 1px;
     border-left-width: 0px;
     border-right-width: 0px;
+ 
+}
+
+a{
+  color: black;
 }
 .bordes_verdes {
   border-style: solid;
