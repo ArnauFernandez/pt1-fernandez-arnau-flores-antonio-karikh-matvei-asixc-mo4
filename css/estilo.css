@@ -46,9 +46,24 @@ footer {
 
 }
 
+.columna1{
+
+  position: static;
+  margin: 10px;
+
+}
+
 .columna{
 
   position: relative;
-  margin-left: 20px;
+  left: 20px;
+  margin: 10px;
+
+}
+
+.muestra{
+
+  position: static;
+  margin: 10px;
 
 }
