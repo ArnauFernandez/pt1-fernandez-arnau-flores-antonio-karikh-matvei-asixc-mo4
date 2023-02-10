@@ -33,3 +33,9 @@ html {
     justify-content: center;
     align-items: center;
   }
+
+  .colum {
+    margin: 10px;
+    padding: 10px;
+  }
+  
