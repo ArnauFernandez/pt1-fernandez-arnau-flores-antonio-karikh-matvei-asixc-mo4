@@ -15,33 +15,40 @@ html {
     min-height: 100%;
     position: relative;
   }
-  body {
-    margin: 0;
-    margin-bottom: 40px;
-  }
-  footer {
-    background-color: black;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 40px;
-    color: white;
-  }
+body {
+  margin: 0;
+  margin-bottom: 40px;
+}
+footer {
+  background-color: black;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  color: white;
+}
 
-  .fila {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+.fila {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
-  .columna {
-    margin: 10px;
-    padding: 10px;
-  }
+.columna {
+  margin: 10px;
+  padding: 10px;
+}
 
-  .text {
-    font-size: 12px;
-    font-family: Verdana;
-    text-align: center;
+.text {
+  font-size: 12px;
+  font-family: Verdana;
+  text-align: center;
 
-  }
+}
+
+.columna{
+
+  position: relative;
+  margin-left: 20px;
+
+}
