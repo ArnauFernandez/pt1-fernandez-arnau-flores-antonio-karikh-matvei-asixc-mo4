@@ -27,3 +27,9 @@ html {
     height: 40px;
     color: white;
   }
+
+  .fila {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
