@@ -46,18 +46,10 @@ footer {
 
 }
 
-.columna1{
-
-  position: static;
-  margin: 10px;
-
-}
-
 .columna{
 
-  position: relative;
-  left: 20px;
-  margin: 10px;
+  float: left;
+  width: 33.33%;
 
 }
 
