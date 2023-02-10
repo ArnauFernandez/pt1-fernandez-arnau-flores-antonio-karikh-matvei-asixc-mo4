@@ -7,3 +7,7 @@ bg_white{
     background-color: white;
     font-size: small;
 }
+bordes_p{
+    border-top: 5cm;
+    border-bottom: 5cm;
+}
