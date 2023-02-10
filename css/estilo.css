@@ -8,8 +8,8 @@ bg_white{
     font-size: small;
 }
 .bordes {
-    border-top: #7aba96 1px;
-    border-bottom:#7aba96 1px;
+    border-color: #22cf6d;
+    border-width: 5px;
     }
 html {
     min-height: 100%;
@@ -34,10 +34,6 @@ footer {
   align-items: center;
 }
 
-.columna {
-  margin: 10px;
-  padding: 10px;
-}
 
 .text {
   font-size: 12px;
