@@ -4,7 +4,16 @@ align-items: center;
 text-align: center;
 align-content: center;
 }
-.enlaces {
+
+.inicio {
+    color: green;
+    font-weight: bold;
+}
+.recetas {
+    color: green;
+    font-weight: bold;
+}
+.contacto {
     color: green;
     font-weight: bold;
 }
