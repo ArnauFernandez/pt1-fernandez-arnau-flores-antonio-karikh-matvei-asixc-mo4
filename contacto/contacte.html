@@ -2,10 +2,50 @@
 <html>
   <head>
     <title>Formulari de contacte</title>
+    <link rel="stylesheet" type="text/css" href="/css/estiloRecetas.css">
   </head>
   <body>
-    <h1>Formulari de contacte</h1>
-    <p>En construcció</p>
-    <a href="/index.html">Tornar a la pàgina principal</a>
+    <header>
+      <div style="text-align: center;">
+      <img src="/imatges/Logo-Delicias.png" alt="="/>
+      </div>
+      <div class="nav_head" >
+      <nav class="R_nav">
+        <a href="/index.html">INICIO</a>
+        <a href="#" class="enlaces">SOBRE MI</a>
+        <a href="/lista/llista.html" class="enlaces">RECETAS</a>
+        <a href="/contacto/contacte.html" class="enlaces">CONTACTO</a>
+        <a href="#" class="enlaces">OTRAS COSAS</a>
+      </nav>
+      </div>
+      </header>
+      <div style="text-align: center;"class="texto">
+        <h2>Formulario De Registro</h2>
+        <form action="/action_page.php" method="get">
+          <label for="fname">Nombre:</label><br>
+          <input type="text" id="fname" name="fname" value=""><br>
+          <label for="lname">Apellido:</label><br>
+          <input type="text" id="lname" name="lname" value=""><br><br>
+          <h3>Nivel de cocina</h3>
+          <input type="radio" id="RB_lvlcook" name="fav_language" value="Ferran Adrià">
+          <label for="Ferran Adrià">Ferran Adrià</label><br>
+          <input type="radio" id="RB_lvlcook2" name="fav_language" value="Gordon Ramsey">
+          <label for="Gordon Ramsey">Gordon Ramsey</label><br>
+          <input type="radio" id="RB_lvlcook3" name="fav_language" value="noob">
+          <label for="noob">Se me quema un huevo frito :(</label><br>
+        <h3>¿Que edad tienes?</h3>
+        <label for="age">Indica tu edad:</label>
+          <select id="age" name="age">
+            <option value="+65">+65</option>
+            <option value="30-65">30-65</option>
+            <option value="+18">+18</option>
+            <option value="-18">-18</option>
+          </select><br>
+        <input type="submit" value="Enviar"><br>
+        </form> 
+      </div>
   </body>
+  <footer>
+    <nav class="R_footer" >FACEBOOK TWITTER INSTAGRAM PINTEREST EMAIL RSS</nav>
+  </footer>
 </html>
