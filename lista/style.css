@@ -1,0 +1,20 @@
+/* Estilos generales */
+.Rpastas {
+align-items: center;
+text-align: center;
+align-content: center;
+}
+
+.inicio {
+    color: green;
+    font-weight: bold;
+}
+.recetas {
+    color: green;
+    font-weight: bold;
+}
+.contacto {
+    color: green;
+    font-weight: bold;
+}
+/* Estilos para las recetas */
