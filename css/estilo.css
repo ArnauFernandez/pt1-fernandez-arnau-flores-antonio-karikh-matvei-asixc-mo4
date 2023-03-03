@@ -104,3 +104,17 @@ footer {
   font-family: Arial;
   font-size: small;
 }
+a href{
+  color: green;
+  font-weight: bold;
+}
+.bold{
+  font-weight: bold;
+}
+.cursiva{
+  font-style: italic;
+}
+.estiloP{
+border: bottom 1px;;
+color: black;
+}
