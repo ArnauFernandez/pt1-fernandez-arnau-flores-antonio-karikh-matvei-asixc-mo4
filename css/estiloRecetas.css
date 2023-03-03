@@ -19,7 +19,7 @@ align-content: center;
 }
 .receta{
     border-style: solid;
-    border-color: black;
+    border-color: #7ABA96;
     border-top-width: 1px;
     border-bottom-width: 1px;
     border-left-width: 0px;
@@ -41,5 +41,29 @@ align-content: center;
   .R_body {
     background-color: #756b59;
   }
-  
+  .enlaces{
+    color: black;
+  }
 /* Estilos para las recetas */
+.R_nav{
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-right-width: 0px;
+  border-left-width: 0px;
+  color: #7ABA96;
+  border-style: solid;
+  text-align: center;
+}
+.imgCenter{
+  text-align: center;
+}
+.texto{
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-right-width: 0px;
+  border-left-width: 0px;
+  border-style: solid;
+  font-size: medium;
+  font-weight: bold;
+  color: black;
+}
