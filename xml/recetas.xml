@@ -42,33 +42,818 @@
             <paso>Esta receta además de ser económica es una receta saludable, llena de proteínas e hidratos. Yo la presento siempre como plato único, espero que os guste.</paso>
         </pasos>
     </receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
-    <receta></receta>
+    <receta> 
+    <ingredientes>
+            <ingrediente>3 huevos medianos (talla M)</ingrediente>
+            <ingrediente>10 ml. de aceite de oliva virgen extra (puedes emplear también mantequilla, 15 g,)</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>Sal (al gusto de cada casa)</ingrediente>
+            <ingrediente>5 ml. de nata líquida para cocinar (opcional)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Elegimos un plato hondo para batir los huevos, que sea lo suficientemente profundo como para poder inclinarlo ligeramente sin salpicar.</paso>
+            <paso> Cascamos los huevos y los echamos en el plato. Si tenemos dudas de si están frescos hacemos un paso intermedio para comprobarlo: llenamos un vaso con agua del tiempo y sumergimos los huevos uno a uno, si se van al fondo están perfectos, en caso de que floten los descartamos inmediatamente.</paso>
+            <paso>Espolvoreamos una pizca de sal sobre el plato. Removemos enérgicamente con la ayuda de un tenedor hasta tener una mezcla uniforme, no deberíamos ver restos de las claras.</paso>
+            <paso>Ponemos una sartén a fuego medio-alto y echamos un chorro de aceite de oliva virgen extra. Dejamos calentar.</paso>
+        </pasos>
+        </receta>
+    <receta> 
+        <ingredientes>
+            <ingrediente>3 huevos medianos (talla M)</ingrediente>
+            <ingrediente>10 ml. de aceite de oliva virgen extra (puedes emplear también mantequilla, 15 g,)</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>Sal (al gusto de cada casa)</ingrediente>
+            <ingrediente>5 ml. de nata líquida para cocinar (opcional)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Elegimos un plato hondo para batir los huevos, que sea lo suficientemente profundo como para poder inclinarlo ligeramente sin salpicar.</paso>
+            <paso> Cascamos los huevos y los echamos en el plato. Si tenemos dudas de si están frescos hacemos un paso intermedio para comprobarlo: llenamos un vaso con agua del tiempo y sumergimos los huevos uno a uno, si se van al fondo están perfectos, en caso de que floten los descartamos inmediatamente.</paso>
+            <paso>Espolvoreamos una pizca de sal sobre el plato. Removemos enérgicamente con la ayuda de un tenedor hasta tener una mezcla uniforme, no deberíamos ver restos de las claras.</paso>
+            <paso>Ponemos una sartén a fuego medio-alto y echamos un chorro de aceite de oliva virgen extra. Dejamos calentar.</paso>
+        </pasos>
+    <receta>
+    <receta>
+     <ingredientes>
+            <ingrediente>3 huevos medianos (talla M)</ingrediente>
+            <ingrediente>10 ml. de aceite de oliva virgen extra (puedes emplear también mantequilla, 15 g,)</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>Sal (al gusto de cada casa)</ingrediente>
+            <ingrediente>5 ml. de nata líquida para cocinar (opcional)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Elegimos un plato hondo para batir los huevos, que sea lo suficientemente profundo como para poder inclinarlo ligeramente sin salpicar.</paso>
+            <paso> Cascamos los huevos y los echamos en el plato. Si tenemos dudas de si están frescos hacemos un paso intermedio para comprobarlo: llenamos un vaso con agua del tiempo y sumergimos los huevos uno a uno, si se van al fondo están perfectos, en caso de que floten los descartamos inmediatamente.</paso>
+            <paso>Espolvoreamos una pizca de sal sobre el plato. Removemos enérgicamente con la ayuda de un tenedor hasta tener una mezcla uniforme, no deberíamos ver restos de las claras.</paso>
+            <paso>Ponemos una sartén a fuego medio-alto y echamos un chorro de aceite de oliva virgen extra. Dejamos calentar.</paso>
+        </pasos>
+    </receta>
+    <receta>
+     <ingredientes>
+            <ingrediente>3 huevos medianos (talla M)</ingrediente>
+            <ingrediente>10 ml. de aceite de oliva virgen extra (puedes emplear también mantequilla, 15 g,)</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>Sal (al gusto de cada casa)</ingrediente>
+            <ingrediente>5 ml. de nata líquida para cocinar (opcional)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Elegimos un plato hondo para batir los huevos, que sea lo suficientemente profundo como para poder inclinarlo ligeramente sin salpicar.</paso>
+            <paso> Cascamos los huevos y los echamos en el plato. Si tenemos dudas de si están frescos hacemos un paso intermedio para comprobarlo: llenamos un vaso con agua del tiempo y sumergimos los huevos uno a uno, si se van al fondo están perfectos, en caso de que floten los descartamos inmediatamente.</paso>
+            <paso>Espolvoreamos una pizca de sal sobre el plato. Removemos enérgicamente con la ayuda de un tenedor hasta tener una mezcla uniforme, no deberíamos ver restos de las claras.</paso>
+            <paso>Ponemos una sartén a fuego medio-alto y echamos un chorro de aceite de oliva virgen extra. Dejamos calentar.</paso>
+        </pasos>
+    </receta>
+    <receta>
+     <ingredientes>
+            <ingrediente>3 huevos medianos (talla M)</ingrediente>
+            <ingrediente>10 ml. de aceite de oliva virgen extra (puedes emplear también mantequilla, 15 g,)</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>Sal (al gusto de cada casa)</ingrediente>
+            <ingrediente>5 ml. de nata líquida para cocinar (opcional)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Elegimos un plato hondo para batir los huevos, que sea lo suficientemente profundo como para poder inclinarlo ligeramente sin salpicar.</paso>
+            <paso> Cascamos los huevos y los echamos en el plato. Si tenemos dudas de si están frescos hacemos un paso intermedio para comprobarlo: llenamos un vaso con agua del tiempo y sumergimos los huevos uno a uno, si se van al fondo están perfectos, en caso de que floten los descartamos inmediatamente.</paso>
+            <paso>Espolvoreamos una pizca de sal sobre el plato. Removemos enérgicamente con la ayuda de un tenedor hasta tener una mezcla uniforme, no deberíamos ver restos de las claras.</paso>
+            <paso>Ponemos una sartén a fuego medio-alto y echamos un chorro de aceite de oliva virgen extra. Dejamos calentar.</paso>
+        </pasos>
+    </receta>
+    <receta>
+     <ingredientes>
+            <ingrediente>3 huevos medianos (talla M)</ingrediente>
+            <ingrediente>10 ml. de aceite de oliva virgen extra (puedes emplear también mantequilla, 15 g,)</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>Sal (al gusto de cada casa)</ingrediente>
+            <ingrediente>5 ml. de nata líquida para cocinar (opcional)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Elegimos un plato hondo para batir los huevos, que sea lo suficientemente profundo como para poder inclinarlo ligeramente sin salpicar.</paso>
+            <paso> Cascamos los huevos y los echamos en el plato. Si tenemos dudas de si están frescos hacemos un paso intermedio para comprobarlo: llenamos un vaso con agua del tiempo y sumergimos los huevos uno a uno, si se van al fondo están perfectos, en caso de que floten los descartamos inmediatamente.</paso>
+            <paso>Espolvoreamos una pizca de sal sobre el plato. Removemos enérgicamente con la ayuda de un tenedor hasta tener una mezcla uniforme, no deberíamos ver restos de las claras.</paso>
+            <paso>Ponemos una sartén a fuego medio-alto y echamos un chorro de aceite de oliva virgen extra. Dejamos calentar.</paso>
+        </pasos>
+    </receta>
+    <receta>
+     <ingredientes>
+            <ingrediente>3 huevos medianos (talla M)</ingrediente>
+            <ingrediente>10 ml. de aceite de oliva virgen extra (puedes emplear también mantequilla, 15 g,)</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>Sal (al gusto de cada casa)</ingrediente>
+            <ingrediente>5 ml. de nata líquida para cocinar (opcional)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Elegimos un plato hondo para batir los huevos, que sea lo suficientemente profundo como para poder inclinarlo ligeramente sin salpicar.</paso>
+            <paso> Cascamos los huevos y los echamos en el plato. Si tenemos dudas de si están frescos hacemos un paso intermedio para comprobarlo: llenamos un vaso con agua del tiempo y sumergimos los huevos uno a uno, si se van al fondo están perfectos, en caso de que floten los descartamos inmediatamente.</paso>
+            <paso>Espolvoreamos una pizca de sal sobre el plato. Removemos enérgicamente con la ayuda de un tenedor hasta tener una mezcla uniforme, no deberíamos ver restos de las claras.</paso>
+            <paso>Ponemos una sartén a fuego medio-alto y echamos un chorro de aceite de oliva virgen extra. Dejamos calentar.</paso>
+        </pasos>
+    </receta>
+    <receta>
+     <ingredientes>
+            <ingrediente>3 huevos medianos (talla M)</ingrediente>
+            <ingrediente>10 ml. de aceite de oliva virgen extra (puedes emplear también mantequilla, 15 g,)</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>Sal (al gusto de cada casa)</ingrediente>
+            <ingrediente>5 ml. de nata líquida para cocinar (opcional)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Elegimos un plato hondo para batir los huevos, que sea lo suficientemente profundo como para poder inclinarlo ligeramente sin salpicar.</paso>
+            <paso> Cascamos los huevos y los echamos en el plato. Si tenemos dudas de si están frescos hacemos un paso intermedio para comprobarlo: llenamos un vaso con agua del tiempo y sumergimos los huevos uno a uno, si se van al fondo están perfectos, en caso de que floten los descartamos inmediatamente.</paso>
+            <paso>Espolvoreamos una pizca de sal sobre el plato. Removemos enérgicamente con la ayuda de un tenedor hasta tener una mezcla uniforme, no deberíamos ver restos de las claras.</paso>
+            <paso>Ponemos una sartén a fuego medio-alto y echamos un chorro de aceite de oliva virgen extra. Dejamos calentar.</paso>
+        </pasos>
+    </receta>
+    <receta>
+     <ingredientes>
+            <ingrediente>3 huevos medianos (talla M)</ingrediente>
+            <ingrediente>10 ml. de aceite de oliva virgen extra (puedes emplear también mantequilla, 15 g,)</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>Sal (al gusto de cada casa)</ingrediente>
+            <ingrediente>5 ml. de nata líquida para cocinar (opcional)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Elegimos un plato hondo para batir los huevos, que sea lo suficientemente profundo como para poder inclinarlo ligeramente sin salpicar.</paso>
+            <paso> Cascamos los huevos y los echamos en el plato. Si tenemos dudas de si están frescos hacemos un paso intermedio para comprobarlo: llenamos un vaso con agua del tiempo y sumergimos los huevos uno a uno, si se van al fondo están perfectos, en caso de que floten los descartamos inmediatamente.</paso>
+            <paso>Espolvoreamos una pizca de sal sobre el plato. Removemos enérgicamente con la ayuda de un tenedor hasta tener una mezcla uniforme, no deberíamos ver restos de las claras.</paso>
+            <paso>Ponemos una sartén a fuego medio-alto y echamos un chorro de aceite de oliva virgen extra. Dejamos calentar.</paso>
+        </pasos>
+    </receta>
+    <receta>
+     <ingredientes>
+            <ingrediente>3 huevos medianos (talla M)</ingrediente>
+            <ingrediente>10 ml. de aceite de oliva virgen extra (puedes emplear también mantequilla, 15 g,)</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>Sal (al gusto de cada casa)</ingrediente>
+            <ingrediente>5 ml. de nata líquida para cocinar (opcional)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Elegimos un plato hondo para batir los huevos, que sea lo suficientemente profundo como para poder inclinarlo ligeramente sin salpicar.</paso>
+            <paso> Cascamos los huevos y los echamos en el plato. Si tenemos dudas de si están frescos hacemos un paso intermedio para comprobarlo: llenamos un vaso con agua del tiempo y sumergimos los huevos uno a uno, si se van al fondo están perfectos, en caso de que floten los descartamos inmediatamente.</paso>
+            <paso>Espolvoreamos una pizca de sal sobre el plato. Removemos enérgicamente con la ayuda de un tenedor hasta tener una mezcla uniforme, no deberíamos ver restos de las claras.</paso>
+            <paso>Ponemos una sartén a fuego medio-alto y echamos un chorro de aceite de oliva virgen extra. Dejamos calentar.</paso>
+        </pasos>
+    </receta>
+    <receta>
+     <ingredientes>
+            <ingrediente>3 huevos medianos (talla M)</ingrediente>
+            <ingrediente>10 ml. de aceite de oliva virgen extra (puedes emplear también mantequilla, 15 g,)</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>Sal (al gusto de cada casa)</ingrediente>
+            <ingrediente>5 ml. de nata líquida para cocinar (opcional)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Elegimos un plato hondo para batir los huevos, que sea lo suficientemente profundo como para poder inclinarlo ligeramente sin salpicar.</paso>
+            <paso> Cascamos los huevos y los echamos en el plato. Si tenemos dudas de si están frescos hacemos un paso intermedio para comprobarlo: llenamos un vaso con agua del tiempo y sumergimos los huevos uno a uno, si se van al fondo están perfectos, en caso de que floten los descartamos inmediatamente.</paso>
+            <paso>Espolvoreamos una pizca de sal sobre el plato. Removemos enérgicamente con la ayuda de un tenedor hasta tener una mezcla uniforme, no deberíamos ver restos de las claras.</paso>
+            <paso>Ponemos una sartén a fuego medio-alto y echamos un chorro de aceite de oliva virgen extra. Dejamos calentar.</paso>
+        </pasos>
+    </receta>
+    <receta>
+     <ingredientes>
+            <ingrediente>3 huevos medianos (talla M)</ingrediente>
+            <ingrediente>10 ml. de aceite de oliva virgen extra (puedes emplear también mantequilla, 15 g,)</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>Sal (al gusto de cada casa)</ingrediente>
+            <ingrediente>5 ml. de nata líquida para cocinar (opcional)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Elegimos un plato hondo para batir los huevos, que sea lo suficientemente profundo como para poder inclinarlo ligeramente sin salpicar.</paso>
+            <paso> Cascamos los huevos y los echamos en el plato. Si tenemos dudas de si están frescos hacemos un paso intermedio para comprobarlo: llenamos un vaso con agua del tiempo y sumergimos los huevos uno a uno, si se van al fondo están perfectos, en caso de que floten los descartamos inmediatamente.</paso>
+            <paso>Espolvoreamos una pizca de sal sobre el plato. Removemos enérgicamente con la ayuda de un tenedor hasta tener una mezcla uniforme, no deberíamos ver restos de las claras.</paso>
+            <paso>Ponemos una sartén a fuego medio-alto y echamos un chorro de aceite de oliva virgen extra. Dejamos calentar.</paso>
+        </pasos>
+    </receta>
+    <receta>
+     <ingredientes>
+            <ingrediente>3 huevos medianos (talla M)</ingrediente>
+            <ingrediente>10 ml. de aceite de oliva virgen extra (puedes emplear también mantequilla, 15 g,)</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>Sal (al gusto de cada casa)</ingrediente>
+            <ingrediente>5 ml. de nata líquida para cocinar (opcional)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Elegimos un plato hondo para batir los huevos, que sea lo suficientemente profundo como para poder inclinarlo ligeramente sin salpicar.</paso>
+            <paso> Cascamos los huevos y los echamos en el plato. Si tenemos dudas de si están frescos hacemos un paso intermedio para comprobarlo: llenamos un vaso con agua del tiempo y sumergimos los huevos uno a uno, si se van al fondo están perfectos, en caso de que floten los descartamos inmediatamente.</paso>
+            <paso>Espolvoreamos una pizca de sal sobre el plato. Removemos enérgicamente con la ayuda de un tenedor hasta tener una mezcla uniforme, no deberíamos ver restos de las claras.</paso>
+            <paso>Ponemos una sartén a fuego medio-alto y echamos un chorro de aceite de oliva virgen extra. Dejamos calentar.</paso>
+        </pasos>
+    </receta>
+    <receta>
+     <ingredientes>
+            <ingrediente>3 huevos medianos (talla M)</ingrediente>
+            <ingrediente>10 ml. de aceite de oliva virgen extra (puedes emplear también mantequilla, 15 g,)</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>Sal (al gusto de cada casa)</ingrediente>
+            <ingrediente>5 ml. de nata líquida para cocinar (opcional)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Elegimos un plato hondo para batir los huevos, que sea lo suficientemente profundo como para poder inclinarlo ligeramente sin salpicar.</paso>
+            <paso> Cascamos los huevos y los echamos en el plato. Si tenemos dudas de si están frescos hacemos un paso intermedio para comprobarlo: llenamos un vaso con agua del tiempo y sumergimos los huevos uno a uno, si se van al fondo están perfectos, en caso de que floten los descartamos inmediatamente.</paso>
+            <paso>Espolvoreamos una pizca de sal sobre el plato. Removemos enérgicamente con la ayuda de un tenedor hasta tener una mezcla uniforme, no deberíamos ver restos de las claras.</paso>
+            <paso>Ponemos una sartén a fuego medio-alto y echamos un chorro de aceite de oliva virgen extra. Dejamos calentar.</paso>
+        </pasos>
+    </receta>
+    <receta>
+     <ingredientes>
+            <ingrediente>3 huevos medianos (talla M)</ingrediente>
+            <ingrediente>10 ml. de aceite de oliva virgen extra (puedes emplear también mantequilla, 15 g,)</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>Sal (al gusto de cada casa)</ingrediente>
+            <ingrediente>5 ml. de nata líquida para cocinar (opcional)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Elegimos un plato hondo para batir los huevos, que sea lo suficientemente profundo como para poder inclinarlo ligeramente sin salpicar.</paso>
+            <paso> Cascamos los huevos y los echamos en el plato. Si tenemos dudas de si están frescos hacemos un paso intermedio para comprobarlo: llenamos un vaso con agua del tiempo y sumergimos los huevos uno a uno, si se van al fondo están perfectos, en caso de que floten los descartamos inmediatamente.</paso>
+            <paso>Espolvoreamos una pizca de sal sobre el plato. Removemos enérgicamente con la ayuda de un tenedor hasta tener una mezcla uniforme, no deberíamos ver restos de las claras.</paso>
+            <paso>Ponemos una sartén a fuego medio-alto y echamos un chorro de aceite de oliva virgen extra. Dejamos calentar.</paso>
+        </pasos>
+    </receta>
+    <receta>
+        <ingredientes>
+            <ingrediente>Para el relleno (boloñesa de carne): 500 g. de carne (una mezcla de cerdo y ternera)</ingrediente>
+            <ingrediente>2 pimientos rojos</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>150 g. de bacon o panceta</ingrediente>
+            <ingrediente>2 cebollas grandes</ingrediente>
+            <ingrediente>250 g. de tomate natural (1 vaso aproximadamente)</ingrediente>
+            <ingrediente>250 ml de vino blanco (200 ml. aproximadamente)</ingrediente>
+            <ingrediente>100 ml. de aceite de oliva virgen extra</ingrediente>
+            <ingrediente>1 cucharita colmada de orégano seco (o hierbas provenzales)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para la lasaña:</ingrediente>
+            <ingrediente>12 láminas de lasaña o lasagna Garofalo</ingrediente>
+            <ingrediente>Para hacer la bechamel: (para un litro más o menos, la suficiente para la lasaña): 125 g de harina de trigo de todo uso</ingrediente>
+            <ingrediente>125 g de mantequilla</ingrediente>
+            <ingrediente>1 litro de leche entera</ingrediente>
+            <ingrediente>Una pizca de nuez moscada (unos 4 g.)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para finalizar y gratinar la lasaña: 100-120 g. de queso rallado Grana Padano (o mezcla con vuestro queso preferido para gratinar)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Calentamos una cazuela grande de agua, la más ancha de casa. Cuando empiece a hervir echamos 2 puñados generosos de sal.</paso>
+            <paso>Introducimos las láminas de lasaña una a una sin que se toquen (para que no se peguen entre ellas). Ahora podemos encontrar infinidad de tipos de lasaña donde no hace hidratarla como se hacía antes. En casa muchas veces para ahorrar tiempo empleo las que se hidratan con la bechamel y el jugo que suelta la salsa al hornear.</paso>
+            <paso>Si lo hacéis de la manera tradicional tenemos que remover con una cuchara de madera y en unos 10 minutos sacamos las láminas. Las estiramos encima de unas hojas de papel absorbente de cocina. Aunque os parezca que no están, acabarán haciéndose en el horno.</paso>
+            <paso>El siguiente paso será lavar muy bien todas las verduras que vamos a emplear en el relleno. En la receta os aconsejo el relleno de la clásica salsa boloñesa, zanahorias, ajo, pimientos y cebolla.</paso>
+            <titulo>Cómo hacer el relleno de lasaña de carne</titulo>
+            <paso>Las verduras las cortamos en trocitos pequeños para que se junten bien en la salsa. Las zanahorias las cortamos lo más fino posible. Os recomiendo laminarlas con el pelador de las patatas porque a la hora de pocharlas si las tiras son gruesas no se hacen. Reservamos todo en un bol</paso>
+            <paso>Sofreímos todo a temperatura media durante unos 15 minutos y esperamos por la carne. Salpimentamos la carne al gusto y la echamos a la cazuela con la verdura. Dejamos que se pase durante 5 minutos y cuando veamos que va cambiando de color introducimos el bacon o panceta en trozos muy pequeños. Vertemos un vaso de vino blanco y esperamos a que reduzca (otros 5 minutos a fuego medio).</paso>
+            <paso>Añadimos un vaso de tomate natural, echamos la cucharadita de orégano y rectificamos de sal y pimienta si hiciese falta (probad la salsa para ver si está a vuestro gusto). Removemos la carne con las verduras y retiramos del fuego, dejamos enfriar un poco.</paso>
+            <paso>Precalentamos el horno a 200º C durante 15 minutos, lo justo para hacer el resto de la lasaña.</paso>
+            <titulo>Preparación de la salsa bechamel y final de la receta</titulo>
+            <paso>Mientras reposa la salsa vamos a preparar la bechamel, la podemos preparar más cremosa o más consistente dependiendo de las medidas. En el blog tenéis la receta de esta crema con todo lujo de detalles.</paso>
+            <paso>Para montar la lasaña la cosa es muy sencilla. Ponemos en el fondo de la fuente unas cucharadas de la bechamel. Encima las láminas, una capa de la mezcla con la carne en cada lámina, otra vez la bechamel y así hasta tener 3 pisos.</paso>
+            <paso>Se pueden hacer las capas de lasaña que quieras, bueno las que te permita la fuente. Finalmente rematamos con una capa generosa de bechamel. Y para aquellos que le guste el queso, rallamos aquel que más os guste, que sea especial para gratinar. Os recomiendo un queso curadito Grana Padano.</paso>
+            <paso>Horneamos en la bandeja del medio durante 15 minutos a 180º C y durante 3-5 minutos en la parte superior con el gratinador puesto para que se dore. Lista para comer, no hace falta reposo, del horno a la mesa.</paso>
+            <paso>Esta receta además de ser económica es una receta saludable, llena de proteínas e hidratos. Yo la presento siempre como plato único, espero que os guste.</paso>
+        </pasos>
+    </receta>
+    <receta>
+        <ingredientes>
+            <ingrediente>Para el relleno (boloñesa de carne): 500 g. de carne (una mezcla de cerdo y ternera)</ingrediente>
+            <ingrediente>2 pimientos rojos</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>150 g. de bacon o panceta</ingrediente>
+            <ingrediente>2 cebollas grandes</ingrediente>
+            <ingrediente>250 g. de tomate natural (1 vaso aproximadamente)</ingrediente>
+            <ingrediente>250 ml de vino blanco (200 ml. aproximadamente)</ingrediente>
+            <ingrediente>100 ml. de aceite de oliva virgen extra</ingrediente>
+            <ingrediente>1 cucharita colmada de orégano seco (o hierbas provenzales)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para la lasaña:</ingrediente>
+            <ingrediente>12 láminas de lasaña o lasagna Garofalo</ingrediente>
+            <ingrediente>Para hacer la bechamel: (para un litro más o menos, la suficiente para la lasaña): 125 g de harina de trigo de todo uso</ingrediente>
+            <ingrediente>125 g de mantequilla</ingrediente>
+            <ingrediente>1 litro de leche entera</ingrediente>
+            <ingrediente>Una pizca de nuez moscada (unos 4 g.)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para finalizar y gratinar la lasaña: 100-120 g. de queso rallado Grana Padano (o mezcla con vuestro queso preferido para gratinar)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Calentamos una cazuela grande de agua, la más ancha de casa. Cuando empiece a hervir echamos 2 puñados generosos de sal.</paso>
+            <paso>Introducimos las láminas de lasaña una a una sin que se toquen (para que no se peguen entre ellas). Ahora podemos encontrar infinidad de tipos de lasaña donde no hace hidratarla como se hacía antes. En casa muchas veces para ahorrar tiempo empleo las que se hidratan con la bechamel y el jugo que suelta la salsa al hornear.</paso>
+            <paso>Si lo hacéis de la manera tradicional tenemos que remover con una cuchara de madera y en unos 10 minutos sacamos las láminas. Las estiramos encima de unas hojas de papel absorbente de cocina. Aunque os parezca que no están, acabarán haciéndose en el horno.</paso>
+            <paso>El siguiente paso será lavar muy bien todas las verduras que vamos a emplear en el relleno. En la receta os aconsejo el relleno de la clásica salsa boloñesa, zanahorias, ajo, pimientos y cebolla.</paso>
+            <titulo>Cómo hacer el relleno de lasaña de carne</titulo>
+            <paso>Las verduras las cortamos en trocitos pequeños para que se junten bien en la salsa. Las zanahorias las cortamos lo más fino posible. Os recomiendo laminarlas con el pelador de las patatas porque a la hora de pocharlas si las tiras son gruesas no se hacen. Reservamos todo en un bol</paso>
+            <paso>Sofreímos todo a temperatura media durante unos 15 minutos y esperamos por la carne. Salpimentamos la carne al gusto y la echamos a la cazuela con la verdura. Dejamos que se pase durante 5 minutos y cuando veamos que va cambiando de color introducimos el bacon o panceta en trozos muy pequeños. Vertemos un vaso de vino blanco y esperamos a que reduzca (otros 5 minutos a fuego medio).</paso>
+            <paso>Añadimos un vaso de tomate natural, echamos la cucharadita de orégano y rectificamos de sal y pimienta si hiciese falta (probad la salsa para ver si está a vuestro gusto). Removemos la carne con las verduras y retiramos del fuego, dejamos enfriar un poco.</paso>
+            <paso>Precalentamos el horno a 200º C durante 15 minutos, lo justo para hacer el resto de la lasaña.</paso>
+            <titulo>Preparación de la salsa bechamel y final de la receta</titulo>
+            <paso>Mientras reposa la salsa vamos a preparar la bechamel, la podemos preparar más cremosa o más consistente dependiendo de las medidas. En el blog tenéis la receta de esta crema con todo lujo de detalles.</paso>
+            <paso>Para montar la lasaña la cosa es muy sencilla. Ponemos en el fondo de la fuente unas cucharadas de la bechamel. Encima las láminas, una capa de la mezcla con la carne en cada lámina, otra vez la bechamel y así hasta tener 3 pisos.</paso>
+            <paso>Se pueden hacer las capas de lasaña que quieras, bueno las que te permita la fuente. Finalmente rematamos con una capa generosa de bechamel. Y para aquellos que le guste el queso, rallamos aquel que más os guste, que sea especial para gratinar. Os recomiendo un queso curadito Grana Padano.</paso>
+            <paso>Horneamos en la bandeja del medio durante 15 minutos a 180º C y durante 3-5 minutos en la parte superior con el gratinador puesto para que se dore. Lista para comer, no hace falta reposo, del horno a la mesa.</paso>
+            <paso>Esta receta además de ser económica es una receta saludable, llena de proteínas e hidratos. Yo la presento siempre como plato único, espero que os guste.</paso>
+        </pasos>
+    </receta>
+    <receta>
+        <ingredientes>
+            <ingrediente>Para el relleno (boloñesa de carne): 500 g. de carne (una mezcla de cerdo y ternera)</ingrediente>
+            <ingrediente>2 pimientos rojos</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>150 g. de bacon o panceta</ingrediente>
+            <ingrediente>2 cebollas grandes</ingrediente>
+            <ingrediente>250 g. de tomate natural (1 vaso aproximadamente)</ingrediente>
+            <ingrediente>250 ml de vino blanco (200 ml. aproximadamente)</ingrediente>
+            <ingrediente>100 ml. de aceite de oliva virgen extra</ingrediente>
+            <ingrediente>1 cucharita colmada de orégano seco (o hierbas provenzales)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para la lasaña:</ingrediente>
+            <ingrediente>12 láminas de lasaña o lasagna Garofalo</ingrediente>
+            <ingrediente>Para hacer la bechamel: (para un litro más o menos, la suficiente para la lasaña): 125 g de harina de trigo de todo uso</ingrediente>
+            <ingrediente>125 g de mantequilla</ingrediente>
+            <ingrediente>1 litro de leche entera</ingrediente>
+            <ingrediente>Una pizca de nuez moscada (unos 4 g.)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para finalizar y gratinar la lasaña: 100-120 g. de queso rallado Grana Padano (o mezcla con vuestro queso preferido para gratinar)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Calentamos una cazuela grande de agua, la más ancha de casa. Cuando empiece a hervir echamos 2 puñados generosos de sal.</paso>
+            <paso>Introducimos las láminas de lasaña una a una sin que se toquen (para que no se peguen entre ellas). Ahora podemos encontrar infinidad de tipos de lasaña donde no hace hidratarla como se hacía antes. En casa muchas veces para ahorrar tiempo empleo las que se hidratan con la bechamel y el jugo que suelta la salsa al hornear.</paso>
+            <paso>Si lo hacéis de la manera tradicional tenemos que remover con una cuchara de madera y en unos 10 minutos sacamos las láminas. Las estiramos encima de unas hojas de papel absorbente de cocina. Aunque os parezca que no están, acabarán haciéndose en el horno.</paso>
+            <paso>El siguiente paso será lavar muy bien todas las verduras que vamos a emplear en el relleno. En la receta os aconsejo el relleno de la clásica salsa boloñesa, zanahorias, ajo, pimientos y cebolla.</paso>
+            <titulo>Cómo hacer el relleno de lasaña de carne</titulo>
+            <paso>Las verduras las cortamos en trocitos pequeños para que se junten bien en la salsa. Las zanahorias las cortamos lo más fino posible. Os recomiendo laminarlas con el pelador de las patatas porque a la hora de pocharlas si las tiras son gruesas no se hacen. Reservamos todo en un bol</paso>
+            <paso>Sofreímos todo a temperatura media durante unos 15 minutos y esperamos por la carne. Salpimentamos la carne al gusto y la echamos a la cazuela con la verdura. Dejamos que se pase durante 5 minutos y cuando veamos que va cambiando de color introducimos el bacon o panceta en trozos muy pequeños. Vertemos un vaso de vino blanco y esperamos a que reduzca (otros 5 minutos a fuego medio).</paso>
+            <paso>Añadimos un vaso de tomate natural, echamos la cucharadita de orégano y rectificamos de sal y pimienta si hiciese falta (probad la salsa para ver si está a vuestro gusto). Removemos la carne con las verduras y retiramos del fuego, dejamos enfriar un poco.</paso>
+            <paso>Precalentamos el horno a 200º C durante 15 minutos, lo justo para hacer el resto de la lasaña.</paso>
+            <titulo>Preparación de la salsa bechamel y final de la receta</titulo>
+            <paso>Mientras reposa la salsa vamos a preparar la bechamel, la podemos preparar más cremosa o más consistente dependiendo de las medidas. En el blog tenéis la receta de esta crema con todo lujo de detalles.</paso>
+            <paso>Para montar la lasaña la cosa es muy sencilla. Ponemos en el fondo de la fuente unas cucharadas de la bechamel. Encima las láminas, una capa de la mezcla con la carne en cada lámina, otra vez la bechamel y así hasta tener 3 pisos.</paso>
+            <paso>Se pueden hacer las capas de lasaña que quieras, bueno las que te permita la fuente. Finalmente rematamos con una capa generosa de bechamel. Y para aquellos que le guste el queso, rallamos aquel que más os guste, que sea especial para gratinar. Os recomiendo un queso curadito Grana Padano.</paso>
+            <paso>Horneamos en la bandeja del medio durante 15 minutos a 180º C y durante 3-5 minutos en la parte superior con el gratinador puesto para que se dore. Lista para comer, no hace falta reposo, del horno a la mesa.</paso>
+            <paso>Esta receta además de ser económica es una receta saludable, llena de proteínas e hidratos. Yo la presento siempre como plato único, espero que os guste.</paso>
+        </pasos>
+    </receta>
+    <receta>
+        <ingredientes>
+            <ingrediente>Para el relleno (boloñesa de carne): 500 g. de carne (una mezcla de cerdo y ternera)</ingrediente>
+            <ingrediente>2 pimientos rojos</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>150 g. de bacon o panceta</ingrediente>
+            <ingrediente>2 cebollas grandes</ingrediente>
+            <ingrediente>250 g. de tomate natural (1 vaso aproximadamente)</ingrediente>
+            <ingrediente>250 ml de vino blanco (200 ml. aproximadamente)</ingrediente>
+            <ingrediente>100 ml. de aceite de oliva virgen extra</ingrediente>
+            <ingrediente>1 cucharita colmada de orégano seco (o hierbas provenzales)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para la lasaña:</ingrediente>
+            <ingrediente>12 láminas de lasaña o lasagna Garofalo</ingrediente>
+            <ingrediente>Para hacer la bechamel: (para un litro más o menos, la suficiente para la lasaña): 125 g de harina de trigo de todo uso</ingrediente>
+            <ingrediente>125 g de mantequilla</ingrediente>
+            <ingrediente>1 litro de leche entera</ingrediente>
+            <ingrediente>Una pizca de nuez moscada (unos 4 g.)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para finalizar y gratinar la lasaña: 100-120 g. de queso rallado Grana Padano (o mezcla con vuestro queso preferido para gratinar)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Calentamos una cazuela grande de agua, la más ancha de casa. Cuando empiece a hervir echamos 2 puñados generosos de sal.</paso>
+            <paso>Introducimos las láminas de lasaña una a una sin que se toquen (para que no se peguen entre ellas). Ahora podemos encontrar infinidad de tipos de lasaña donde no hace hidratarla como se hacía antes. En casa muchas veces para ahorrar tiempo empleo las que se hidratan con la bechamel y el jugo que suelta la salsa al hornear.</paso>
+            <paso>Si lo hacéis de la manera tradicional tenemos que remover con una cuchara de madera y en unos 10 minutos sacamos las láminas. Las estiramos encima de unas hojas de papel absorbente de cocina. Aunque os parezca que no están, acabarán haciéndose en el horno.</paso>
+            <paso>El siguiente paso será lavar muy bien todas las verduras que vamos a emplear en el relleno. En la receta os aconsejo el relleno de la clásica salsa boloñesa, zanahorias, ajo, pimientos y cebolla.</paso>
+            <titulo>Cómo hacer el relleno de lasaña de carne</titulo>
+            <paso>Las verduras las cortamos en trocitos pequeños para que se junten bien en la salsa. Las zanahorias las cortamos lo más fino posible. Os recomiendo laminarlas con el pelador de las patatas porque a la hora de pocharlas si las tiras son gruesas no se hacen. Reservamos todo en un bol</paso>
+            <paso>Sofreímos todo a temperatura media durante unos 15 minutos y esperamos por la carne. Salpimentamos la carne al gusto y la echamos a la cazuela con la verdura. Dejamos que se pase durante 5 minutos y cuando veamos que va cambiando de color introducimos el bacon o panceta en trozos muy pequeños. Vertemos un vaso de vino blanco y esperamos a que reduzca (otros 5 minutos a fuego medio).</paso>
+            <paso>Añadimos un vaso de tomate natural, echamos la cucharadita de orégano y rectificamos de sal y pimienta si hiciese falta (probad la salsa para ver si está a vuestro gusto). Removemos la carne con las verduras y retiramos del fuego, dejamos enfriar un poco.</paso>
+            <paso>Precalentamos el horno a 200º C durante 15 minutos, lo justo para hacer el resto de la lasaña.</paso>
+            <titulo>Preparación de la salsa bechamel y final de la receta</titulo>
+            <paso>Mientras reposa la salsa vamos a preparar la bechamel, la podemos preparar más cremosa o más consistente dependiendo de las medidas. En el blog tenéis la receta de esta crema con todo lujo de detalles.</paso>
+            <paso>Para montar la lasaña la cosa es muy sencilla. Ponemos en el fondo de la fuente unas cucharadas de la bechamel. Encima las láminas, una capa de la mezcla con la carne en cada lámina, otra vez la bechamel y así hasta tener 3 pisos.</paso>
+            <paso>Se pueden hacer las capas de lasaña que quieras, bueno las que te permita la fuente. Finalmente rematamos con una capa generosa de bechamel. Y para aquellos que le guste el queso, rallamos aquel que más os guste, que sea especial para gratinar. Os recomiendo un queso curadito Grana Padano.</paso>
+            <paso>Horneamos en la bandeja del medio durante 15 minutos a 180º C y durante 3-5 minutos en la parte superior con el gratinador puesto para que se dore. Lista para comer, no hace falta reposo, del horno a la mesa.</paso>
+            <paso>Esta receta además de ser económica es una receta saludable, llena de proteínas e hidratos. Yo la presento siempre como plato único, espero que os guste.</paso>
+        </pasos>
+    </receta>
+    <receta>
+        <ingredientes>
+            <ingrediente>Para el relleno (boloñesa de carne): 500 g. de carne (una mezcla de cerdo y ternera)</ingrediente>
+            <ingrediente>2 pimientos rojos</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>150 g. de bacon o panceta</ingrediente>
+            <ingrediente>2 cebollas grandes</ingrediente>
+            <ingrediente>250 g. de tomate natural (1 vaso aproximadamente)</ingrediente>
+            <ingrediente>250 ml de vino blanco (200 ml. aproximadamente)</ingrediente>
+            <ingrediente>100 ml. de aceite de oliva virgen extra</ingrediente>
+            <ingrediente>1 cucharita colmada de orégano seco (o hierbas provenzales)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para la lasaña:</ingrediente>
+            <ingrediente>12 láminas de lasaña o lasagna Garofalo</ingrediente>
+            <ingrediente>Para hacer la bechamel: (para un litro más o menos, la suficiente para la lasaña): 125 g de harina de trigo de todo uso</ingrediente>
+            <ingrediente>125 g de mantequilla</ingrediente>
+            <ingrediente>1 litro de leche entera</ingrediente>
+            <ingrediente>Una pizca de nuez moscada (unos 4 g.)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para finalizar y gratinar la lasaña: 100-120 g. de queso rallado Grana Padano (o mezcla con vuestro queso preferido para gratinar)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Calentamos una cazuela grande de agua, la más ancha de casa. Cuando empiece a hervir echamos 2 puñados generosos de sal.</paso>
+            <paso>Introducimos las láminas de lasaña una a una sin que se toquen (para que no se peguen entre ellas). Ahora podemos encontrar infinidad de tipos de lasaña donde no hace hidratarla como se hacía antes. En casa muchas veces para ahorrar tiempo empleo las que se hidratan con la bechamel y el jugo que suelta la salsa al hornear.</paso>
+            <paso>Si lo hacéis de la manera tradicional tenemos que remover con una cuchara de madera y en unos 10 minutos sacamos las láminas. Las estiramos encima de unas hojas de papel absorbente de cocina. Aunque os parezca que no están, acabarán haciéndose en el horno.</paso>
+            <paso>El siguiente paso será lavar muy bien todas las verduras que vamos a emplear en el relleno. En la receta os aconsejo el relleno de la clásica salsa boloñesa, zanahorias, ajo, pimientos y cebolla.</paso>
+            <titulo>Cómo hacer el relleno de lasaña de carne</titulo>
+            <paso>Las verduras las cortamos en trocitos pequeños para que se junten bien en la salsa. Las zanahorias las cortamos lo más fino posible. Os recomiendo laminarlas con el pelador de las patatas porque a la hora de pocharlas si las tiras son gruesas no se hacen. Reservamos todo en un bol</paso>
+            <paso>Sofreímos todo a temperatura media durante unos 15 minutos y esperamos por la carne. Salpimentamos la carne al gusto y la echamos a la cazuela con la verdura. Dejamos que se pase durante 5 minutos y cuando veamos que va cambiando de color introducimos el bacon o panceta en trozos muy pequeños. Vertemos un vaso de vino blanco y esperamos a que reduzca (otros 5 minutos a fuego medio).</paso>
+            <paso>Añadimos un vaso de tomate natural, echamos la cucharadita de orégano y rectificamos de sal y pimienta si hiciese falta (probad la salsa para ver si está a vuestro gusto). Removemos la carne con las verduras y retiramos del fuego, dejamos enfriar un poco.</paso>
+            <paso>Precalentamos el horno a 200º C durante 15 minutos, lo justo para hacer el resto de la lasaña.</paso>
+            <titulo>Preparación de la salsa bechamel y final de la receta</titulo>
+            <paso>Mientras reposa la salsa vamos a preparar la bechamel, la podemos preparar más cremosa o más consistente dependiendo de las medidas. En el blog tenéis la receta de esta crema con todo lujo de detalles.</paso>
+            <paso>Para montar la lasaña la cosa es muy sencilla. Ponemos en el fondo de la fuente unas cucharadas de la bechamel. Encima las láminas, una capa de la mezcla con la carne en cada lámina, otra vez la bechamel y así hasta tener 3 pisos.</paso>
+            <paso>Se pueden hacer las capas de lasaña que quieras, bueno las que te permita la fuente. Finalmente rematamos con una capa generosa de bechamel. Y para aquellos que le guste el queso, rallamos aquel que más os guste, que sea especial para gratinar. Os recomiendo un queso curadito Grana Padano.</paso>
+            <paso>Horneamos en la bandeja del medio durante 15 minutos a 180º C y durante 3-5 minutos en la parte superior con el gratinador puesto para que se dore. Lista para comer, no hace falta reposo, del horno a la mesa.</paso>
+            <paso>Esta receta además de ser económica es una receta saludable, llena de proteínas e hidratos. Yo la presento siempre como plato único, espero que os guste.</paso>
+        </pasos>
+    </receta>
+    <receta>
+        <ingredientes>
+            <ingrediente>Para el relleno (boloñesa de carne): 500 g. de carne (una mezcla de cerdo y ternera)</ingrediente>
+            <ingrediente>2 pimientos rojos</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>150 g. de bacon o panceta</ingrediente>
+            <ingrediente>2 cebollas grandes</ingrediente>
+            <ingrediente>250 g. de tomate natural (1 vaso aproximadamente)</ingrediente>
+            <ingrediente>250 ml de vino blanco (200 ml. aproximadamente)</ingrediente>
+            <ingrediente>100 ml. de aceite de oliva virgen extra</ingrediente>
+            <ingrediente>1 cucharita colmada de orégano seco (o hierbas provenzales)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para la lasaña:</ingrediente>
+            <ingrediente>12 láminas de lasaña o lasagna Garofalo</ingrediente>
+            <ingrediente>Para hacer la bechamel: (para un litro más o menos, la suficiente para la lasaña): 125 g de harina de trigo de todo uso</ingrediente>
+            <ingrediente>125 g de mantequilla</ingrediente>
+            <ingrediente>1 litro de leche entera</ingrediente>
+            <ingrediente>Una pizca de nuez moscada (unos 4 g.)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para finalizar y gratinar la lasaña: 100-120 g. de queso rallado Grana Padano (o mezcla con vuestro queso preferido para gratinar)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Calentamos una cazuela grande de agua, la más ancha de casa. Cuando empiece a hervir echamos 2 puñados generosos de sal.</paso>
+            <paso>Introducimos las láminas de lasaña una a una sin que se toquen (para que no se peguen entre ellas). Ahora podemos encontrar infinidad de tipos de lasaña donde no hace hidratarla como se hacía antes. En casa muchas veces para ahorrar tiempo empleo las que se hidratan con la bechamel y el jugo que suelta la salsa al hornear.</paso>
+            <paso>Si lo hacéis de la manera tradicional tenemos que remover con una cuchara de madera y en unos 10 minutos sacamos las láminas. Las estiramos encima de unas hojas de papel absorbente de cocina. Aunque os parezca que no están, acabarán haciéndose en el horno.</paso>
+            <paso>El siguiente paso será lavar muy bien todas las verduras que vamos a emplear en el relleno. En la receta os aconsejo el relleno de la clásica salsa boloñesa, zanahorias, ajo, pimientos y cebolla.</paso>
+            <titulo>Cómo hacer el relleno de lasaña de carne</titulo>
+            <paso>Las verduras las cortamos en trocitos pequeños para que se junten bien en la salsa. Las zanahorias las cortamos lo más fino posible. Os recomiendo laminarlas con el pelador de las patatas porque a la hora de pocharlas si las tiras son gruesas no se hacen. Reservamos todo en un bol</paso>
+            <paso>Sofreímos todo a temperatura media durante unos 15 minutos y esperamos por la carne. Salpimentamos la carne al gusto y la echamos a la cazuela con la verdura. Dejamos que se pase durante 5 minutos y cuando veamos que va cambiando de color introducimos el bacon o panceta en trozos muy pequeños. Vertemos un vaso de vino blanco y esperamos a que reduzca (otros 5 minutos a fuego medio).</paso>
+            <paso>Añadimos un vaso de tomate natural, echamos la cucharadita de orégano y rectificamos de sal y pimienta si hiciese falta (probad la salsa para ver si está a vuestro gusto). Removemos la carne con las verduras y retiramos del fuego, dejamos enfriar un poco.</paso>
+            <paso>Precalentamos el horno a 200º C durante 15 minutos, lo justo para hacer el resto de la lasaña.</paso>
+            <titulo>Preparación de la salsa bechamel y final de la receta</titulo>
+            <paso>Mientras reposa la salsa vamos a preparar la bechamel, la podemos preparar más cremosa o más consistente dependiendo de las medidas. En el blog tenéis la receta de esta crema con todo lujo de detalles.</paso>
+            <paso>Para montar la lasaña la cosa es muy sencilla. Ponemos en el fondo de la fuente unas cucharadas de la bechamel. Encima las láminas, una capa de la mezcla con la carne en cada lámina, otra vez la bechamel y así hasta tener 3 pisos.</paso>
+            <paso>Se pueden hacer las capas de lasaña que quieras, bueno las que te permita la fuente. Finalmente rematamos con una capa generosa de bechamel. Y para aquellos que le guste el queso, rallamos aquel que más os guste, que sea especial para gratinar. Os recomiendo un queso curadito Grana Padano.</paso>
+            <paso>Horneamos en la bandeja del medio durante 15 minutos a 180º C y durante 3-5 minutos en la parte superior con el gratinador puesto para que se dore. Lista para comer, no hace falta reposo, del horno a la mesa.</paso>
+            <paso>Esta receta además de ser económica es una receta saludable, llena de proteínas e hidratos. Yo la presento siempre como plato único, espero que os guste.</paso>
+        </pasos>
+    </receta>
+    <receta>
+        <ingredientes>
+            <ingrediente>Para el relleno (boloñesa de carne): 500 g. de carne (una mezcla de cerdo y ternera)</ingrediente>
+            <ingrediente>2 pimientos rojos</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>150 g. de bacon o panceta</ingrediente>
+            <ingrediente>2 cebollas grandes</ingrediente>
+            <ingrediente>250 g. de tomate natural (1 vaso aproximadamente)</ingrediente>
+            <ingrediente>250 ml de vino blanco (200 ml. aproximadamente)</ingrediente>
+            <ingrediente>100 ml. de aceite de oliva virgen extra</ingrediente>
+            <ingrediente>1 cucharita colmada de orégano seco (o hierbas provenzales)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para la lasaña:</ingrediente>
+            <ingrediente>12 láminas de lasaña o lasagna Garofalo</ingrediente>
+            <ingrediente>Para hacer la bechamel: (para un litro más o menos, la suficiente para la lasaña): 125 g de harina de trigo de todo uso</ingrediente>
+            <ingrediente>125 g de mantequilla</ingrediente>
+            <ingrediente>1 litro de leche entera</ingrediente>
+            <ingrediente>Una pizca de nuez moscada (unos 4 g.)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para finalizar y gratinar la lasaña: 100-120 g. de queso rallado Grana Padano (o mezcla con vuestro queso preferido para gratinar)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Calentamos una cazuela grande de agua, la más ancha de casa. Cuando empiece a hervir echamos 2 puñados generosos de sal.</paso>
+            <paso>Introducimos las láminas de lasaña una a una sin que se toquen (para que no se peguen entre ellas). Ahora podemos encontrar infinidad de tipos de lasaña donde no hace hidratarla como se hacía antes. En casa muchas veces para ahorrar tiempo empleo las que se hidratan con la bechamel y el jugo que suelta la salsa al hornear.</paso>
+            <paso>Si lo hacéis de la manera tradicional tenemos que remover con una cuchara de madera y en unos 10 minutos sacamos las láminas. Las estiramos encima de unas hojas de papel absorbente de cocina. Aunque os parezca que no están, acabarán haciéndose en el horno.</paso>
+            <paso>El siguiente paso será lavar muy bien todas las verduras que vamos a emplear en el relleno. En la receta os aconsejo el relleno de la clásica salsa boloñesa, zanahorias, ajo, pimientos y cebolla.</paso>
+            <titulo>Cómo hacer el relleno de lasaña de carne</titulo>
+            <paso>Las verduras las cortamos en trocitos pequeños para que se junten bien en la salsa. Las zanahorias las cortamos lo más fino posible. Os recomiendo laminarlas con el pelador de las patatas porque a la hora de pocharlas si las tiras son gruesas no se hacen. Reservamos todo en un bol</paso>
+            <paso>Sofreímos todo a temperatura media durante unos 15 minutos y esperamos por la carne. Salpimentamos la carne al gusto y la echamos a la cazuela con la verdura. Dejamos que se pase durante 5 minutos y cuando veamos que va cambiando de color introducimos el bacon o panceta en trozos muy pequeños. Vertemos un vaso de vino blanco y esperamos a que reduzca (otros 5 minutos a fuego medio).</paso>
+            <paso>Añadimos un vaso de tomate natural, echamos la cucharadita de orégano y rectificamos de sal y pimienta si hiciese falta (probad la salsa para ver si está a vuestro gusto). Removemos la carne con las verduras y retiramos del fuego, dejamos enfriar un poco.</paso>
+            <paso>Precalentamos el horno a 200º C durante 15 minutos, lo justo para hacer el resto de la lasaña.</paso>
+            <titulo>Preparación de la salsa bechamel y final de la receta</titulo>
+            <paso>Mientras reposa la salsa vamos a preparar la bechamel, la podemos preparar más cremosa o más consistente dependiendo de las medidas. En el blog tenéis la receta de esta crema con todo lujo de detalles.</paso>
+            <paso>Para montar la lasaña la cosa es muy sencilla. Ponemos en el fondo de la fuente unas cucharadas de la bechamel. Encima las láminas, una capa de la mezcla con la carne en cada lámina, otra vez la bechamel y así hasta tener 3 pisos.</paso>
+            <paso>Se pueden hacer las capas de lasaña que quieras, bueno las que te permita la fuente. Finalmente rematamos con una capa generosa de bechamel. Y para aquellos que le guste el queso, rallamos aquel que más os guste, que sea especial para gratinar. Os recomiendo un queso curadito Grana Padano.</paso>
+            <paso>Horneamos en la bandeja del medio durante 15 minutos a 180º C y durante 3-5 minutos en la parte superior con el gratinador puesto para que se dore. Lista para comer, no hace falta reposo, del horno a la mesa.</paso>
+            <paso>Esta receta además de ser económica es una receta saludable, llena de proteínas e hidratos. Yo la presento siempre como plato único, espero que os guste.</paso>
+        </pasos>
+    </receta>
+    <receta>
+        <ingredientes>
+            <ingrediente>Para el relleno (boloñesa de carne): 500 g. de carne (una mezcla de cerdo y ternera)</ingrediente>
+            <ingrediente>2 pimientos rojos</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>150 g. de bacon o panceta</ingrediente>
+            <ingrediente>2 cebollas grandes</ingrediente>
+            <ingrediente>250 g. de tomate natural (1 vaso aproximadamente)</ingrediente>
+            <ingrediente>250 ml de vino blanco (200 ml. aproximadamente)</ingrediente>
+            <ingrediente>100 ml. de aceite de oliva virgen extra</ingrediente>
+            <ingrediente>1 cucharita colmada de orégano seco (o hierbas provenzales)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para la lasaña:</ingrediente>
+            <ingrediente>12 láminas de lasaña o lasagna Garofalo</ingrediente>
+            <ingrediente>Para hacer la bechamel: (para un litro más o menos, la suficiente para la lasaña): 125 g de harina de trigo de todo uso</ingrediente>
+            <ingrediente>125 g de mantequilla</ingrediente>
+            <ingrediente>1 litro de leche entera</ingrediente>
+            <ingrediente>Una pizca de nuez moscada (unos 4 g.)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para finalizar y gratinar la lasaña: 100-120 g. de queso rallado Grana Padano (o mezcla con vuestro queso preferido para gratinar)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Calentamos una cazuela grande de agua, la más ancha de casa. Cuando empiece a hervir echamos 2 puñados generosos de sal.</paso>
+            <paso>Introducimos las láminas de lasaña una a una sin que se toquen (para que no se peguen entre ellas). Ahora podemos encontrar infinidad de tipos de lasaña donde no hace hidratarla como se hacía antes. En casa muchas veces para ahorrar tiempo empleo las que se hidratan con la bechamel y el jugo que suelta la salsa al hornear.</paso>
+            <paso>Si lo hacéis de la manera tradicional tenemos que remover con una cuchara de madera y en unos 10 minutos sacamos las láminas. Las estiramos encima de unas hojas de papel absorbente de cocina. Aunque os parezca que no están, acabarán haciéndose en el horno.</paso>
+            <paso>El siguiente paso será lavar muy bien todas las verduras que vamos a emplear en el relleno. En la receta os aconsejo el relleno de la clásica salsa boloñesa, zanahorias, ajo, pimientos y cebolla.</paso>
+            <titulo>Cómo hacer el relleno de lasaña de carne</titulo>
+            <paso>Las verduras las cortamos en trocitos pequeños para que se junten bien en la salsa. Las zanahorias las cortamos lo más fino posible. Os recomiendo laminarlas con el pelador de las patatas porque a la hora de pocharlas si las tiras son gruesas no se hacen. Reservamos todo en un bol</paso>
+            <paso>Sofreímos todo a temperatura media durante unos 15 minutos y esperamos por la carne. Salpimentamos la carne al gusto y la echamos a la cazuela con la verdura. Dejamos que se pase durante 5 minutos y cuando veamos que va cambiando de color introducimos el bacon o panceta en trozos muy pequeños. Vertemos un vaso de vino blanco y esperamos a que reduzca (otros 5 minutos a fuego medio).</paso>
+            <paso>Añadimos un vaso de tomate natural, echamos la cucharadita de orégano y rectificamos de sal y pimienta si hiciese falta (probad la salsa para ver si está a vuestro gusto). Removemos la carne con las verduras y retiramos del fuego, dejamos enfriar un poco.</paso>
+            <paso>Precalentamos el horno a 200º C durante 15 minutos, lo justo para hacer el resto de la lasaña.</paso>
+            <titulo>Preparación de la salsa bechamel y final de la receta</titulo>
+            <paso>Mientras reposa la salsa vamos a preparar la bechamel, la podemos preparar más cremosa o más consistente dependiendo de las medidas. En el blog tenéis la receta de esta crema con todo lujo de detalles.</paso>
+            <paso>Para montar la lasaña la cosa es muy sencilla. Ponemos en el fondo de la fuente unas cucharadas de la bechamel. Encima las láminas, una capa de la mezcla con la carne en cada lámina, otra vez la bechamel y así hasta tener 3 pisos.</paso>
+            <paso>Se pueden hacer las capas de lasaña que quieras, bueno las que te permita la fuente. Finalmente rematamos con una capa generosa de bechamel. Y para aquellos que le guste el queso, rallamos aquel que más os guste, que sea especial para gratinar. Os recomiendo un queso curadito Grana Padano.</paso>
+            <paso>Horneamos en la bandeja del medio durante 15 minutos a 180º C y durante 3-5 minutos en la parte superior con el gratinador puesto para que se dore. Lista para comer, no hace falta reposo, del horno a la mesa.</paso>
+            <paso>Esta receta además de ser económica es una receta saludable, llena de proteínas e hidratos. Yo la presento siempre como plato único, espero que os guste.</paso>
+        </pasos>
+    </receta>
+    <receta>
+        <ingredientes>
+            <ingrediente>Para el relleno (boloñesa de carne): 500 g. de carne (una mezcla de cerdo y ternera)</ingrediente>
+            <ingrediente>2 pimientos rojos</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>150 g. de bacon o panceta</ingrediente>
+            <ingrediente>2 cebollas grandes</ingrediente>
+            <ingrediente>250 g. de tomate natural (1 vaso aproximadamente)</ingrediente>
+            <ingrediente>250 ml de vino blanco (200 ml. aproximadamente)</ingrediente>
+            <ingrediente>100 ml. de aceite de oliva virgen extra</ingrediente>
+            <ingrediente>1 cucharita colmada de orégano seco (o hierbas provenzales)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para la lasaña:</ingrediente>
+            <ingrediente>12 láminas de lasaña o lasagna Garofalo</ingrediente>
+            <ingrediente>Para hacer la bechamel: (para un litro más o menos, la suficiente para la lasaña): 125 g de harina de trigo de todo uso</ingrediente>
+            <ingrediente>125 g de mantequilla</ingrediente>
+            <ingrediente>1 litro de leche entera</ingrediente>
+            <ingrediente>Una pizca de nuez moscada (unos 4 g.)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para finalizar y gratinar la lasaña: 100-120 g. de queso rallado Grana Padano (o mezcla con vuestro queso preferido para gratinar)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Calentamos una cazuela grande de agua, la más ancha de casa. Cuando empiece a hervir echamos 2 puñados generosos de sal.</paso>
+            <paso>Introducimos las láminas de lasaña una a una sin que se toquen (para que no se peguen entre ellas). Ahora podemos encontrar infinidad de tipos de lasaña donde no hace hidratarla como se hacía antes. En casa muchas veces para ahorrar tiempo empleo las que se hidratan con la bechamel y el jugo que suelta la salsa al hornear.</paso>
+            <paso>Si lo hacéis de la manera tradicional tenemos que remover con una cuchara de madera y en unos 10 minutos sacamos las láminas. Las estiramos encima de unas hojas de papel absorbente de cocina. Aunque os parezca que no están, acabarán haciéndose en el horno.</paso>
+            <paso>El siguiente paso será lavar muy bien todas las verduras que vamos a emplear en el relleno. En la receta os aconsejo el relleno de la clásica salsa boloñesa, zanahorias, ajo, pimientos y cebolla.</paso>
+            <titulo>Cómo hacer el relleno de lasaña de carne</titulo>
+            <paso>Las verduras las cortamos en trocitos pequeños para que se junten bien en la salsa. Las zanahorias las cortamos lo más fino posible. Os recomiendo laminarlas con el pelador de las patatas porque a la hora de pocharlas si las tiras son gruesas no se hacen. Reservamos todo en un bol</paso>
+            <paso>Sofreímos todo a temperatura media durante unos 15 minutos y esperamos por la carne. Salpimentamos la carne al gusto y la echamos a la cazuela con la verdura. Dejamos que se pase durante 5 minutos y cuando veamos que va cambiando de color introducimos el bacon o panceta en trozos muy pequeños. Vertemos un vaso de vino blanco y esperamos a que reduzca (otros 5 minutos a fuego medio).</paso>
+            <paso>Añadimos un vaso de tomate natural, echamos la cucharadita de orégano y rectificamos de sal y pimienta si hiciese falta (probad la salsa para ver si está a vuestro gusto). Removemos la carne con las verduras y retiramos del fuego, dejamos enfriar un poco.</paso>
+            <paso>Precalentamos el horno a 200º C durante 15 minutos, lo justo para hacer el resto de la lasaña.</paso>
+            <titulo>Preparación de la salsa bechamel y final de la receta</titulo>
+            <paso>Mientras reposa la salsa vamos a preparar la bechamel, la podemos preparar más cremosa o más consistente dependiendo de las medidas. En el blog tenéis la receta de esta crema con todo lujo de detalles.</paso>
+            <paso>Para montar la lasaña la cosa es muy sencilla. Ponemos en el fondo de la fuente unas cucharadas de la bechamel. Encima las láminas, una capa de la mezcla con la carne en cada lámina, otra vez la bechamel y así hasta tener 3 pisos.</paso>
+            <paso>Se pueden hacer las capas de lasaña que quieras, bueno las que te permita la fuente. Finalmente rematamos con una capa generosa de bechamel. Y para aquellos que le guste el queso, rallamos aquel que más os guste, que sea especial para gratinar. Os recomiendo un queso curadito Grana Padano.</paso>
+            <paso>Horneamos en la bandeja del medio durante 15 minutos a 180º C y durante 3-5 minutos en la parte superior con el gratinador puesto para que se dore. Lista para comer, no hace falta reposo, del horno a la mesa.</paso>
+            <paso>Esta receta además de ser económica es una receta saludable, llena de proteínas e hidratos. Yo la presento siempre como plato único, espero que os guste.</paso>
+        </pasos>
+    </receta>
+    <receta>
+        <ingredientes>
+            <ingrediente>Para el relleno (boloñesa de carne): 500 g. de carne (una mezcla de cerdo y ternera)</ingrediente>
+            <ingrediente>2 pimientos rojos</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>150 g. de bacon o panceta</ingrediente>
+            <ingrediente>2 cebollas grandes</ingrediente>
+            <ingrediente>250 g. de tomate natural (1 vaso aproximadamente)</ingrediente>
+            <ingrediente>250 ml de vino blanco (200 ml. aproximadamente)</ingrediente>
+            <ingrediente>100 ml. de aceite de oliva virgen extra</ingrediente>
+            <ingrediente>1 cucharita colmada de orégano seco (o hierbas provenzales)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para la lasaña:</ingrediente>
+            <ingrediente>12 láminas de lasaña o lasagna Garofalo</ingrediente>
+            <ingrediente>Para hacer la bechamel: (para un litro más o menos, la suficiente para la lasaña): 125 g de harina de trigo de todo uso</ingrediente>
+            <ingrediente>125 g de mantequilla</ingrediente>
+            <ingrediente>1 litro de leche entera</ingrediente>
+            <ingrediente>Una pizca de nuez moscada (unos 4 g.)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para finalizar y gratinar la lasaña: 100-120 g. de queso rallado Grana Padano (o mezcla con vuestro queso preferido para gratinar)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Calentamos una cazuela grande de agua, la más ancha de casa. Cuando empiece a hervir echamos 2 puñados generosos de sal.</paso>
+            <paso>Introducimos las láminas de lasaña una a una sin que se toquen (para que no se peguen entre ellas). Ahora podemos encontrar infinidad de tipos de lasaña donde no hace hidratarla como se hacía antes. En casa muchas veces para ahorrar tiempo empleo las que se hidratan con la bechamel y el jugo que suelta la salsa al hornear.</paso>
+            <paso>Si lo hacéis de la manera tradicional tenemos que remover con una cuchara de madera y en unos 10 minutos sacamos las láminas. Las estiramos encima de unas hojas de papel absorbente de cocina. Aunque os parezca que no están, acabarán haciéndose en el horno.</paso>
+            <paso>El siguiente paso será lavar muy bien todas las verduras que vamos a emplear en el relleno. En la receta os aconsejo el relleno de la clásica salsa boloñesa, zanahorias, ajo, pimientos y cebolla.</paso>
+            <titulo>Cómo hacer el relleno de lasaña de carne</titulo>
+            <paso>Las verduras las cortamos en trocitos pequeños para que se junten bien en la salsa. Las zanahorias las cortamos lo más fino posible. Os recomiendo laminarlas con el pelador de las patatas porque a la hora de pocharlas si las tiras son gruesas no se hacen. Reservamos todo en un bol</paso>
+            <paso>Sofreímos todo a temperatura media durante unos 15 minutos y esperamos por la carne. Salpimentamos la carne al gusto y la echamos a la cazuela con la verdura. Dejamos que se pase durante 5 minutos y cuando veamos que va cambiando de color introducimos el bacon o panceta en trozos muy pequeños. Vertemos un vaso de vino blanco y esperamos a que reduzca (otros 5 minutos a fuego medio).</paso>
+            <paso>Añadimos un vaso de tomate natural, echamos la cucharadita de orégano y rectificamos de sal y pimienta si hiciese falta (probad la salsa para ver si está a vuestro gusto). Removemos la carne con las verduras y retiramos del fuego, dejamos enfriar un poco.</paso>
+            <paso>Precalentamos el horno a 200º C durante 15 minutos, lo justo para hacer el resto de la lasaña.</paso>
+            <titulo>Preparación de la salsa bechamel y final de la receta</titulo>
+            <paso>Mientras reposa la salsa vamos a preparar la bechamel, la podemos preparar más cremosa o más consistente dependiendo de las medidas. En el blog tenéis la receta de esta crema con todo lujo de detalles.</paso>
+            <paso>Para montar la lasaña la cosa es muy sencilla. Ponemos en el fondo de la fuente unas cucharadas de la bechamel. Encima las láminas, una capa de la mezcla con la carne en cada lámina, otra vez la bechamel y así hasta tener 3 pisos.</paso>
+            <paso>Se pueden hacer las capas de lasaña que quieras, bueno las que te permita la fuente. Finalmente rematamos con una capa generosa de bechamel. Y para aquellos que le guste el queso, rallamos aquel que más os guste, que sea especial para gratinar. Os recomiendo un queso curadito Grana Padano.</paso>
+            <paso>Horneamos en la bandeja del medio durante 15 minutos a 180º C y durante 3-5 minutos en la parte superior con el gratinador puesto para que se dore. Lista para comer, no hace falta reposo, del horno a la mesa.</paso>
+            <paso>Esta receta además de ser económica es una receta saludable, llena de proteínas e hidratos. Yo la presento siempre como plato único, espero que os guste.</paso>
+        </pasos>
+    </receta>
+    <receta>
+        <ingredientes>
+            <ingrediente>Para el relleno (boloñesa de carne): 500 g. de carne (una mezcla de cerdo y ternera)</ingrediente>
+            <ingrediente>2 pimientos rojos</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>150 g. de bacon o panceta</ingrediente>
+            <ingrediente>2 cebollas grandes</ingrediente>
+            <ingrediente>250 g. de tomate natural (1 vaso aproximadamente)</ingrediente>
+            <ingrediente>250 ml de vino blanco (200 ml. aproximadamente)</ingrediente>
+            <ingrediente>100 ml. de aceite de oliva virgen extra</ingrediente>
+            <ingrediente>1 cucharita colmada de orégano seco (o hierbas provenzales)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para la lasaña:</ingrediente>
+            <ingrediente>12 láminas de lasaña o lasagna Garofalo</ingrediente>
+            <ingrediente>Para hacer la bechamel: (para un litro más o menos, la suficiente para la lasaña): 125 g de harina de trigo de todo uso</ingrediente>
+            <ingrediente>125 g de mantequilla</ingrediente>
+            <ingrediente>1 litro de leche entera</ingrediente>
+            <ingrediente>Una pizca de nuez moscada (unos 4 g.)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para finalizar y gratinar la lasaña: 100-120 g. de queso rallado Grana Padano (o mezcla con vuestro queso preferido para gratinar)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Calentamos una cazuela grande de agua, la más ancha de casa. Cuando empiece a hervir echamos 2 puñados generosos de sal.</paso>
+            <paso>Introducimos las láminas de lasaña una a una sin que se toquen (para que no se peguen entre ellas). Ahora podemos encontrar infinidad de tipos de lasaña donde no hace hidratarla como se hacía antes. En casa muchas veces para ahorrar tiempo empleo las que se hidratan con la bechamel y el jugo que suelta la salsa al hornear.</paso>
+            <paso>Si lo hacéis de la manera tradicional tenemos que remover con una cuchara de madera y en unos 10 minutos sacamos las láminas. Las estiramos encima de unas hojas de papel absorbente de cocina. Aunque os parezca que no están, acabarán haciéndose en el horno.</paso>
+            <paso>El siguiente paso será lavar muy bien todas las verduras que vamos a emplear en el relleno. En la receta os aconsejo el relleno de la clásica salsa boloñesa, zanahorias, ajo, pimientos y cebolla.</paso>
+            <titulo>Cómo hacer el relleno de lasaña de carne</titulo>
+            <paso>Las verduras las cortamos en trocitos pequeños para que se junten bien en la salsa. Las zanahorias las cortamos lo más fino posible. Os recomiendo laminarlas con el pelador de las patatas porque a la hora de pocharlas si las tiras son gruesas no se hacen. Reservamos todo en un bol</paso>
+            <paso>Sofreímos todo a temperatura media durante unos 15 minutos y esperamos por la carne. Salpimentamos la carne al gusto y la echamos a la cazuela con la verdura. Dejamos que se pase durante 5 minutos y cuando veamos que va cambiando de color introducimos el bacon o panceta en trozos muy pequeños. Vertemos un vaso de vino blanco y esperamos a que reduzca (otros 5 minutos a fuego medio).</paso>
+            <paso>Añadimos un vaso de tomate natural, echamos la cucharadita de orégano y rectificamos de sal y pimienta si hiciese falta (probad la salsa para ver si está a vuestro gusto). Removemos la carne con las verduras y retiramos del fuego, dejamos enfriar un poco.</paso>
+            <paso>Precalentamos el horno a 200º C durante 15 minutos, lo justo para hacer el resto de la lasaña.</paso>
+            <titulo>Preparación de la salsa bechamel y final de la receta</titulo>
+            <paso>Mientras reposa la salsa vamos a preparar la bechamel, la podemos preparar más cremosa o más consistente dependiendo de las medidas. En el blog tenéis la receta de esta crema con todo lujo de detalles.</paso>
+            <paso>Para montar la lasaña la cosa es muy sencilla. Ponemos en el fondo de la fuente unas cucharadas de la bechamel. Encima las láminas, una capa de la mezcla con la carne en cada lámina, otra vez la bechamel y así hasta tener 3 pisos.</paso>
+            <paso>Se pueden hacer las capas de lasaña que quieras, bueno las que te permita la fuente. Finalmente rematamos con una capa generosa de bechamel. Y para aquellos que le guste el queso, rallamos aquel que más os guste, que sea especial para gratinar. Os recomiendo un queso curadito Grana Padano.</paso>
+            <paso>Horneamos en la bandeja del medio durante 15 minutos a 180º C y durante 3-5 minutos en la parte superior con el gratinador puesto para que se dore. Lista para comer, no hace falta reposo, del horno a la mesa.</paso>
+            <paso>Esta receta además de ser económica es una receta saludable, llena de proteínas e hidratos. Yo la presento siempre como plato único, espero que os guste.</paso>
+        </pasos>
+    </receta>
+    <receta>
+        <ingredientes>
+            <ingrediente>Para el relleno (boloñesa de carne): 500 g. de carne (una mezcla de cerdo y ternera)</ingrediente>
+            <ingrediente>2 pimientos rojos</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>150 g. de bacon o panceta</ingrediente>
+            <ingrediente>2 cebollas grandes</ingrediente>
+            <ingrediente>250 g. de tomate natural (1 vaso aproximadamente)</ingrediente>
+            <ingrediente>250 ml de vino blanco (200 ml. aproximadamente)</ingrediente>
+            <ingrediente>100 ml. de aceite de oliva virgen extra</ingrediente>
+            <ingrediente>1 cucharita colmada de orégano seco (o hierbas provenzales)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para la lasaña:</ingrediente>
+            <ingrediente>12 láminas de lasaña o lasagna Garofalo</ingrediente>
+            <ingrediente>Para hacer la bechamel: (para un litro más o menos, la suficiente para la lasaña): 125 g de harina de trigo de todo uso</ingrediente>
+            <ingrediente>125 g de mantequilla</ingrediente>
+            <ingrediente>1 litro de leche entera</ingrediente>
+            <ingrediente>Una pizca de nuez moscada (unos 4 g.)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para finalizar y gratinar la lasaña: 100-120 g. de queso rallado Grana Padano (o mezcla con vuestro queso preferido para gratinar)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Calentamos una cazuela grande de agua, la más ancha de casa. Cuando empiece a hervir echamos 2 puñados generosos de sal.</paso>
+            <paso>Introducimos las láminas de lasaña una a una sin que se toquen (para que no se peguen entre ellas). Ahora podemos encontrar infinidad de tipos de lasaña donde no hace hidratarla como se hacía antes. En casa muchas veces para ahorrar tiempo empleo las que se hidratan con la bechamel y el jugo que suelta la salsa al hornear.</paso>
+            <paso>Si lo hacéis de la manera tradicional tenemos que remover con una cuchara de madera y en unos 10 minutos sacamos las láminas. Las estiramos encima de unas hojas de papel absorbente de cocina. Aunque os parezca que no están, acabarán haciéndose en el horno.</paso>
+            <paso>El siguiente paso será lavar muy bien todas las verduras que vamos a emplear en el relleno. En la receta os aconsejo el relleno de la clásica salsa boloñesa, zanahorias, ajo, pimientos y cebolla.</paso>
+            <titulo>Cómo hacer el relleno de lasaña de carne</titulo>
+            <paso>Las verduras las cortamos en trocitos pequeños para que se junten bien en la salsa. Las zanahorias las cortamos lo más fino posible. Os recomiendo laminarlas con el pelador de las patatas porque a la hora de pocharlas si las tiras son gruesas no se hacen. Reservamos todo en un bol</paso>
+            <paso>Sofreímos todo a temperatura media durante unos 15 minutos y esperamos por la carne. Salpimentamos la carne al gusto y la echamos a la cazuela con la verdura. Dejamos que se pase durante 5 minutos y cuando veamos que va cambiando de color introducimos el bacon o panceta en trozos muy pequeños. Vertemos un vaso de vino blanco y esperamos a que reduzca (otros 5 minutos a fuego medio).</paso>
+            <paso>Añadimos un vaso de tomate natural, echamos la cucharadita de orégano y rectificamos de sal y pimienta si hiciese falta (probad la salsa para ver si está a vuestro gusto). Removemos la carne con las verduras y retiramos del fuego, dejamos enfriar un poco.</paso>
+            <paso>Precalentamos el horno a 200º C durante 15 minutos, lo justo para hacer el resto de la lasaña.</paso>
+            <titulo>Preparación de la salsa bechamel y final de la receta</titulo>
+            <paso>Mientras reposa la salsa vamos a preparar la bechamel, la podemos preparar más cremosa o más consistente dependiendo de las medidas. En el blog tenéis la receta de esta crema con todo lujo de detalles.</paso>
+            <paso>Para montar la lasaña la cosa es muy sencilla. Ponemos en el fondo de la fuente unas cucharadas de la bechamel. Encima las láminas, una capa de la mezcla con la carne en cada lámina, otra vez la bechamel y así hasta tener 3 pisos.</paso>
+            <paso>Se pueden hacer las capas de lasaña que quieras, bueno las que te permita la fuente. Finalmente rematamos con una capa generosa de bechamel. Y para aquellos que le guste el queso, rallamos aquel que más os guste, que sea especial para gratinar. Os recomiendo un queso curadito Grana Padano.</paso>
+            <paso>Horneamos en la bandeja del medio durante 15 minutos a 180º C y durante 3-5 minutos en la parte superior con el gratinador puesto para que se dore. Lista para comer, no hace falta reposo, del horno a la mesa.</paso>
+            <paso>Esta receta además de ser económica es una receta saludable, llena de proteínas e hidratos. Yo la presento siempre como plato único, espero que os guste.</paso>
+        </pasos>
+    </receta>
+    <receta>
+        <ingredientes>
+            <ingrediente>Para el relleno (boloñesa de carne): 500 g. de carne (una mezcla de cerdo y ternera)</ingrediente>
+            <ingrediente>2 pimientos rojos</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>150 g. de bacon o panceta</ingrediente>
+            <ingrediente>2 cebollas grandes</ingrediente>
+            <ingrediente>250 g. de tomate natural (1 vaso aproximadamente)</ingrediente>
+            <ingrediente>250 ml de vino blanco (200 ml. aproximadamente)</ingrediente>
+            <ingrediente>100 ml. de aceite de oliva virgen extra</ingrediente>
+            <ingrediente>1 cucharita colmada de orégano seco (o hierbas provenzales)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para la lasaña:</ingrediente>
+            <ingrediente>12 láminas de lasaña o lasagna Garofalo</ingrediente>
+            <ingrediente>Para hacer la bechamel: (para un litro más o menos, la suficiente para la lasaña): 125 g de harina de trigo de todo uso</ingrediente>
+            <ingrediente>125 g de mantequilla</ingrediente>
+            <ingrediente>1 litro de leche entera</ingrediente>
+            <ingrediente>Una pizca de nuez moscada (unos 4 g.)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para finalizar y gratinar la lasaña: 100-120 g. de queso rallado Grana Padano (o mezcla con vuestro queso preferido para gratinar)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Calentamos una cazuela grande de agua, la más ancha de casa. Cuando empiece a hervir echamos 2 puñados generosos de sal.</paso>
+            <paso>Introducimos las láminas de lasaña una a una sin que se toquen (para que no se peguen entre ellas). Ahora podemos encontrar infinidad de tipos de lasaña donde no hace hidratarla como se hacía antes. En casa muchas veces para ahorrar tiempo empleo las que se hidratan con la bechamel y el jugo que suelta la salsa al hornear.</paso>
+            <paso>Si lo hacéis de la manera tradicional tenemos que remover con una cuchara de madera y en unos 10 minutos sacamos las láminas. Las estiramos encima de unas hojas de papel absorbente de cocina. Aunque os parezca que no están, acabarán haciéndose en el horno.</paso>
+            <paso>El siguiente paso será lavar muy bien todas las verduras que vamos a emplear en el relleno. En la receta os aconsejo el relleno de la clásica salsa boloñesa, zanahorias, ajo, pimientos y cebolla.</paso>
+            <titulo>Cómo hacer el relleno de lasaña de carne</titulo>
+            <paso>Las verduras las cortamos en trocitos pequeños para que se junten bien en la salsa. Las zanahorias las cortamos lo más fino posible. Os recomiendo laminarlas con el pelador de las patatas porque a la hora de pocharlas si las tiras son gruesas no se hacen. Reservamos todo en un bol</paso>
+            <paso>Sofreímos todo a temperatura media durante unos 15 minutos y esperamos por la carne. Salpimentamos la carne al gusto y la echamos a la cazuela con la verdura. Dejamos que se pase durante 5 minutos y cuando veamos que va cambiando de color introducimos el bacon o panceta en trozos muy pequeños. Vertemos un vaso de vino blanco y esperamos a que reduzca (otros 5 minutos a fuego medio).</paso>
+            <paso>Añadimos un vaso de tomate natural, echamos la cucharadita de orégano y rectificamos de sal y pimienta si hiciese falta (probad la salsa para ver si está a vuestro gusto). Removemos la carne con las verduras y retiramos del fuego, dejamos enfriar un poco.</paso>
+            <paso>Precalentamos el horno a 200º C durante 15 minutos, lo justo para hacer el resto de la lasaña.</paso>
+            <titulo>Preparación de la salsa bechamel y final de la receta</titulo>
+            <paso>Mientras reposa la salsa vamos a preparar la bechamel, la podemos preparar más cremosa o más consistente dependiendo de las medidas. En el blog tenéis la receta de esta crema con todo lujo de detalles.</paso>
+            <paso>Para montar la lasaña la cosa es muy sencilla. Ponemos en el fondo de la fuente unas cucharadas de la bechamel. Encima las láminas, una capa de la mezcla con la carne en cada lámina, otra vez la bechamel y así hasta tener 3 pisos.</paso>
+            <paso>Se pueden hacer las capas de lasaña que quieras, bueno las que te permita la fuente. Finalmente rematamos con una capa generosa de bechamel. Y para aquellos que le guste el queso, rallamos aquel que más os guste, que sea especial para gratinar. Os recomiendo un queso curadito Grana Padano.</paso>
+            <paso>Horneamos en la bandeja del medio durante 15 minutos a 180º C y durante 3-5 minutos en la parte superior con el gratinador puesto para que se dore. Lista para comer, no hace falta reposo, del horno a la mesa.</paso>
+            <paso>Esta receta además de ser económica es una receta saludable, llena de proteínas e hidratos. Yo la presento siempre como plato único, espero que os guste.</paso>
+        </pasos>
+    </receta>
+    <receta>
+        <ingredientes>
+            <ingrediente>Para el relleno (boloñesa de carne): 500 g. de carne (una mezcla de cerdo y ternera)</ingrediente>
+            <ingrediente>2 pimientos rojos</ingrediente>
+            <ingrediente>2 zanahorias</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>150 g. de bacon o panceta</ingrediente>
+            <ingrediente>2 cebollas grandes</ingrediente>
+            <ingrediente>250 g. de tomate natural (1 vaso aproximadamente)</ingrediente>
+            <ingrediente>250 ml de vino blanco (200 ml. aproximadamente)</ingrediente>
+            <ingrediente>100 ml. de aceite de oliva virgen extra</ingrediente>
+            <ingrediente>1 cucharita colmada de orégano seco (o hierbas provenzales)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para la lasaña:</ingrediente>
+            <ingrediente>12 láminas de lasaña o lasagna Garofalo</ingrediente>
+            <ingrediente>Para hacer la bechamel: (para un litro más o menos, la suficiente para la lasaña): 125 g de harina de trigo de todo uso</ingrediente>
+            <ingrediente>125 g de mantequilla</ingrediente>
+            <ingrediente>1 litro de leche entera</ingrediente>
+            <ingrediente>Una pizca de nuez moscada (unos 4 g.)</ingrediente>
+            <ingrediente>Sal y pimienta negra recién molida (al gusto de cada casa)</ingrediente>
+            <ingrediente>Para finalizar y gratinar la lasaña: 100-120 g. de queso rallado Grana Padano (o mezcla con vuestro queso preferido para gratinar)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <titulo>Preparación de la lasaña de carne</titulo>
+            <paso>Calentamos una cazuela grande de agua, la más ancha de casa. Cuando empiece a hervir echamos 2 puñados generosos de sal.</paso>
+            <paso>Introducimos las láminas de lasaña una a una sin que se toquen (para que no se peguen entre ellas). Ahora podemos encontrar infinidad de tipos de lasaña donde no hace hidratarla como se hacía antes. En casa muchas veces para ahorrar tiempo empleo las que se hidratan con la bechamel y el jugo que suelta la salsa al hornear.</paso>
+            <paso>Si lo hacéis de la manera tradicional tenemos que remover con una cuchara de madera y en unos 10 minutos sacamos las láminas. Las estiramos encima de unas hojas de papel absorbente de cocina. Aunque os parezca que no están, acabarán haciéndose en el horno.</paso>
+            <paso>El siguiente paso será lavar muy bien todas las verduras que vamos a emplear en el relleno. En la receta os aconsejo el relleno de la clásica salsa boloñesa, zanahorias, ajo, pimientos y cebolla.</paso>
+            <titulo>Cómo hacer el relleno de lasaña de carne</titulo>
+            <paso>Las verduras las cortamos en trocitos pequeños para que se junten bien en la salsa. Las zanahorias las cortamos lo más fino posible. Os recomiendo laminarlas con el pelador de las patatas porque a la hora de pocharlas si las tiras son gruesas no se hacen. Reservamos todo en un bol</paso>
+            <paso>Sofreímos todo a temperatura media durante unos 15 minutos y esperamos por la carne. Salpimentamos la carne al gusto y la echamos a la cazuela con la verdura. Dejamos que se pase durante 5 minutos y cuando veamos que va cambiando de color introducimos el bacon o panceta en trozos muy pequeños. Vertemos un vaso de vino blanco y esperamos a que reduzca (otros 5 minutos a fuego medio).</paso>
+            <paso>Añadimos un vaso de tomate natural, echamos la cucharadita de orégano y rectificamos de sal y pimienta si hiciese falta (probad la salsa para ver si está a vuestro gusto). Removemos la carne con las verduras y retiramos del fuego, dejamos enfriar un poco.</paso>
+            <paso>Precalentamos el horno a 200º C durante 15 minutos, lo justo para hacer el resto de la lasaña.</paso>
+            <titulo>Preparación de la salsa bechamel y final de la receta</titulo>
+            <paso>Mientras reposa la salsa vamos a preparar la bechamel, la podemos preparar más cremosa o más consistente dependiendo de las medidas. En el blog tenéis la receta de esta crema con todo lujo de detalles.</paso>
+            <paso>Para montar la lasaña la cosa es muy sencilla. Ponemos en el fondo de la fuente unas cucharadas de la bechamel. Encima las láminas, una capa de la mezcla con la carne en cada lámina, otra vez la bechamel y así hasta tener 3 pisos.</paso>
+            <paso>Se pueden hacer las capas de lasaña que quieras, bueno las que te permita la fuente. Finalmente rematamos con una capa generosa de bechamel. Y para aquellos que le guste el queso, rallamos aquel que más os guste, que sea especial para gratinar. Os recomiendo un queso curadito Grana Padano.</paso>
+            <paso>Horneamos en la bandeja del medio durante 15 minutos a 180º C y durante 3-5 minutos en la parte superior con el gratinador puesto para que se dore. Lista para comer, no hace falta reposo, del horno a la mesa.</paso>
+            <paso>Esta receta además de ser económica es una receta saludable, llena de proteínas e hidratos. Yo la presento siempre como plato único, espero que os guste.</paso>
+        </pasos>
+    </receta>
 </recetas>
