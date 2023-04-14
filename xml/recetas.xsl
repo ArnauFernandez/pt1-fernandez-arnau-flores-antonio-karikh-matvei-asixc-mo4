@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmnls:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:template match="/">
 <!DOCTYPE html>
 <html>
   <head>
@@ -22,7 +25,7 @@
       <div class="imgCenter">
         <img src="../imatges/lasagna-napolitana.jpg" width="500px" height="500px" alt="fotos">
       </div>
-
+    <xsl:for-each select="recetas/receta">
       <div class="texto">
         <p>Lasaña de carne casera. Receta tradicional paso a paso</p>
       </div>
