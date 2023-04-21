@@ -29,8 +29,3 @@
     </li>
   </xsl:template>
 </xsl:stylesheet>
-<!--
-Antonio Flores
-21/04/03
-M04 Pe1B
--->
