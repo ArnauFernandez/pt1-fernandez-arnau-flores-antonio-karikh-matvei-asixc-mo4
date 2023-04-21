@@ -1,0 +1,22 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<garden>
+  <planta>
+    <nom>Rosa</nom>
+    <especie>Rosa canina</especie>
+    <color>Rosada</color>
+    <temps_floracio>Primavera</temps_floracio>
+  </planta>
+  <planta>
+    <nom>Girasol</nom>
+    <especie>Helianthus annuus</especie>
+    <color>Groc</color>
+    <temps_floracio>Estiu</temps_floracio>
+  </planta>
+  <planta>
+    <nom>Lliri</nom>
+    <especie>Lilium candidum</especie>
+    <color>Blanc</color>
+    <temps_floracio>Estiu</temps_floracio>
+  </planta>
+</garden>
