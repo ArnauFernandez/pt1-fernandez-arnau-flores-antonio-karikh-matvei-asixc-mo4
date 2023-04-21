@@ -15,7 +15,6 @@ M04 Pe1B
       </body>
     </html>
   </xsl:template>
-  
   <xsl:template match="planta">
     <li>
       <xsl:value-of select="nom"/>
@@ -34,5 +33,4 @@ M04 Pe1B
       </ul>
     </li>
   </xsl:template>
-  
 </xsl:stylesheet>
