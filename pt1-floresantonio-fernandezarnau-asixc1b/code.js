@@ -92,7 +92,7 @@ function setAlarm() {
     return;
   }
 
-  const timeRemaining = alarm.getTime() - now.getTime();
+  const timeRemaining = alarm.getTime() - now.getTime()+1000;
 
   if (timeRemaining <= 0) {
     alert("Hora de alarma inválida. Asegúrate de que sea en el futuro.");
@@ -100,7 +100,7 @@ function setAlarm() {
   }
 
   setTimeout(function() {
-    alert("Despierte cante puerco beyako cabrón!");
+    alert("vuela alto");
   }, timeRemaining);
 }
 function actualizaReloj(){
