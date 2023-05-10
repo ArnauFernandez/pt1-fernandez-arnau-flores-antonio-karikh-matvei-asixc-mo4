@@ -49,6 +49,8 @@ spinButton.addEventListener('click', () => {
   let startTime;
 
 function spin(timestamp) {
+  var snd = new Audio("ruleta.mp3");
+  snd.play();
   if (!startTime) startTime = timestamp;
   const elapsed = timestamp - startTime;
   const progress = elapsed / totalTime;
