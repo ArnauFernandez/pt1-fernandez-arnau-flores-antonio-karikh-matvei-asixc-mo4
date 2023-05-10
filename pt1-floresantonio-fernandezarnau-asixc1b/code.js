@@ -3,7 +3,7 @@ const ctx = canvas.getContext('2d');
 const spinButton = document.getElementById('spinButton');
 let names = [];
 
-fetch('/names.txt')
+fetch('names.txt/')
   .then(response => response.text())
   .then(data => {
     names = data.split('\n').filter(name => name.trim() !== '');
