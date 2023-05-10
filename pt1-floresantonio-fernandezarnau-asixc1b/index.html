@@ -6,9 +6,20 @@
   <title>Ruleta de Nombres</title>
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
-  <canvas id="rouletteCanvas" width="650" height="650"></canvas>
+<header>
+  <h2>JuegaJuegos</h2>
+</header>
+<body onload="actualizaReloj()">
+  <button class="toggle-button" onclick="toggleDarkMode()">Toggle dark mode</button>
+  <canvas id="rouletteCanvas" width="550" height="550"></canvas>
   <button id="spinButton">Girar ruleta</button>
+    <h1 id="horaActual">hh:mm:ss</h1>
+      <div class="container">
+        <input type="time" id="alarmTime">
+        <div class="button-container">
+          <button id="alarm" onclick="setAlarm()">Establecer Alarma</button>
+        </div>
+      </div>    
   <script src="code.js"></script>
 </body>
 </html>

@@ -68,3 +68,50 @@ function spin(timestamp) {
 }
   requestAnimationFrame(spin);
 });
+function toggleDarkMode() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+}
+
+let options = [];
+
+function setAlarm() {
+  const alarmInput = document.getElementById("alarmTime");
+  const alarmTime = alarmInput.value;
+
+  if (alarmTime === "") {
+    alert("Por favor, introduce una hora válida.");
+    return;
+  }
+
+  const now = new Date();
+  const alarm = new Date(now.toDateString() + " " + alarmTime);
+
+  if (isNaN(alarm.getTime())) {
+    alert("Formato de hora inválido. Utiliza el formato 'HH:MM'.");
+    return;
+  }
+
+  const timeRemaining = alarm.getTime() - now.getTime();
+
+  if (timeRemaining <= 0) {
+    alert("Hora de alarma inválida. Asegúrate de que sea en el futuro.");
+    return;
+  }
+
+  setTimeout(function() {
+    alert("Despierte cante puerco beyako cabrón!");
+  }, timeRemaining);
+}
+function actualizaReloj(){
+  momentoActual = new Date()
+  hora = momentoActual.getHours()
+  minuto = momentoActual.getMinutes() 
+  segundo = momentoActual.getSeconds()
+  if (hora < 10) hora = 0 + hora
+  if (minuto < 10) minuto = "0" + minuto
+  if (segundo < 10) segundo = "0" + segundo
+  horaImprimible = hora + " : " + minuto + " : " + segundo
+  horaActual.innerHTML= horaImprimible
+  setTimeout("actualizaReloj()",1000)
+  }
