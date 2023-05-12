@@ -49,7 +49,8 @@ spinButton.addEventListener('click', () => {
   let startTime;
 
 function spin(timestamp) {
-  myAudio()
+  var audio = new Audio('ruleta.mp3');
+  audio.play()
   if (!startTime) startTime = timestamp;
   const elapsed = timestamp - startTime;
   const progress = elapsed / totalTime;
@@ -101,7 +102,8 @@ function setAlarm() {
   }
 
   setTimeout(function() {
-    myAudio2()
+    var audio = new Audio('ruleta.mp3');
+    audio.play()
     alert("vuela alto");
   }, timeRemaining);
 
@@ -119,25 +121,3 @@ function actualizaReloj(){
   horaActual.innerHTML= horaImprimible
   setTimeout("actualizaReloj()",1000)
   }
-  let myAudio = new Audio();
-  function playAudio() {
-    console.log('The audio will start playing now.')
-    myAudio.src = 'alarma.mp3';
-    myAudio.autoplay = true;
-    myAudio.loop = true;
-   }
-  function pauseAudio(){
-    console.log('Now the audio will pause')
-   myAudio.pause();
-   }
-   let myAudio2 = new Audio();
-   function playAudio() {
-     console.log('The audio will start playing now.')
-     myAudio.src = 'ruleta.mp3';
-     myAudio.autoplay = true;
-     myAudio.loop = true;
-    }
-   function pauseAudio(){
-     console.log('Now the audio will pause')
-    myAudio.pause();
-    }
