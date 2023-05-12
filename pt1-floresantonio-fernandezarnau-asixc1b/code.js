@@ -102,10 +102,8 @@ function setAlarm() {
   }
 
   setTimeout(function() {
-    var audio = new Audio('alarma.mp3');
     audio.play()
     alert("vuela alto");
-    audio.pause()
   }, timeRemaining);
 
 
@@ -122,3 +120,25 @@ function actualizaReloj(){
   horaActual.innerHTML= horaImprimible
   setTimeout("actualizaReloj()",1000)
   }
+  let myAudio = new Audio();
+  function playAudio() {
+    console.log('The audio will start playing now.')
+    myAudio.src = 'alarma.mp3';
+    myAudio.autoplay = true;
+    myAudio.loop = true;
+   }
+  function pauseAudio(){
+    console.log('Now the audio will pause')
+   myAudio.pause();
+   }
+   let myAudio2 = new Audio();
+   function playAudio() {
+     console.log('The audio will start playing now.')
+     myAudio.src = 'ruleta.mp3';
+     myAudio.autoplay = true;
+     myAudio.loop = true;
+    }
+   function pauseAudio(){
+     console.log('Now the audio will pause')
+    myAudio.pause();
+    }
