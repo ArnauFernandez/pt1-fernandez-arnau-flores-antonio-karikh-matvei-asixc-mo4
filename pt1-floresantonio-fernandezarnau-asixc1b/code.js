@@ -101,8 +101,8 @@ function setAlarm() {
   }
 
   setTimeout(function() {
-    myAudio2()
     alert("vuela alto");
+    myAudio2()
   }, timeRemaining);
 
 
