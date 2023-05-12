@@ -49,8 +49,8 @@ spinButton.addEventListener('click', () => {
   let startTime;
 
 function spin(timestamp) {
-  var snd = new Audio("pt1-floresantonio-fernandezarnau-asixc1b/ruleta.mp3");
-  snd.play();
+  var audio = new Audio('ruleta.mp3');
+  audio.play()
   if (!startTime) startTime = timestamp;
   const elapsed = timestamp - startTime;
   const progress = elapsed / totalTime;
@@ -102,9 +102,9 @@ function setAlarm() {
   }
 
   setTimeout(function() {
-    alert("vuela alto");
     var audio = new Audio('ruleta.mp3');
-    audio.play
+    audio.play()
+    alert("vuela alto");
   }, timeRemaining);
 
 
