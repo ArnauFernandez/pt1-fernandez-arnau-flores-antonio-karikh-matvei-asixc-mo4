@@ -104,7 +104,7 @@ function setAlarm() {
   setTimeout(function() {
     alert("vuela alto");
     var audio = new Audio('ruleta.mp3');
-    audio.play()
+    audio.play
   }, timeRemaining);
 
 
