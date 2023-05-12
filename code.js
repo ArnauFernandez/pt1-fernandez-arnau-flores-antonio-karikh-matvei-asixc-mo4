@@ -41,14 +41,15 @@ function drawRoulette(rotation = 0) {
     ctx.restore();
   }
 }
-
+var audio = new Audio('ruleta.mp3');
 spinButton.addEventListener('click', () => {
   const targetRotation = Math.random() * 2 * Math.PI;
   const numSpins = 10;
   const totalTime = 5000;
   let startTime;
 
-function spin(timestamp) {
+function spin(timestamp) {     
+  audio.play()
   if (!startTime) startTime = timestamp;
   const elapsed = timestamp - startTime;
   const progress = elapsed / totalTime;
@@ -98,9 +99,8 @@ function setAlarm() {
     alert("Hora de alarma inválida. Asegúrate de que sea en el futuro.");
     return;
   }
-
+  var audio = new Audio('alarma.mp3');
   setTimeout(function() {
-    var audio = new Audio('alarma.mp3');
     audio.play()
     alert("vuela alto");
   }, timeRemaining);
