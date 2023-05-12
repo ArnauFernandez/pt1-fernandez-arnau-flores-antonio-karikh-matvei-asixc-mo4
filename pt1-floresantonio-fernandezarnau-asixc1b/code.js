@@ -49,7 +49,7 @@ spinButton.addEventListener('click', () => {
   let startTime;
 
 function spin(timestamp) {
-  var audio = new Audio('ruleta.mp3');
+  var audio = new Audio('alarma.mp3');
   audio.play()
   if (!startTime) startTime = timestamp;
   const elapsed = timestamp - startTime;
