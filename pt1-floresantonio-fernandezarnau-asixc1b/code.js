@@ -49,8 +49,7 @@ spinButton.addEventListener('click', () => {
   let startTime;
 
 function spin(timestamp) {
-  var audio = new Audio('alarma.mp3');
-  audio.play()
+  myAudio()
   if (!startTime) startTime = timestamp;
   const elapsed = timestamp - startTime;
   const progress = elapsed / totalTime;
@@ -102,7 +101,7 @@ function setAlarm() {
   }
 
   setTimeout(function() {
-    audio.play()
+    myAudio2()
     alert("vuela alto");
   }, timeRemaining);
 
