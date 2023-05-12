@@ -103,7 +103,11 @@ function setAlarm() {
 
   setTimeout(function() {
     alert("vuela alto");
+    var audio = new Audio('ruleta.mp3');
+    audio.play()
   }, timeRemaining);
+
+
 }
 function actualizaReloj(){
   momentoActual = new Date()
